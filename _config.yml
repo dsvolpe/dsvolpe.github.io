@@ -57,22 +57,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Daniel Serrano"
+  avatar : "/assets/images/SerranoHighlandParkSmol.png"
+  bio    : "Program Director of undergrad research program TREND. Scientific Educator of grad fellows program COMBINE. Founder and program co-Director of undergrad research program Terps in Space."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+  # - label: "Website"
+  #   icon: "fas fa-fw fa-link"
+  #   url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/rostrosfisicos"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/dsvolpe"
+    - label: "Google Scholar"
+      icon: "ai ai-fw ai-google-scholar-square"
+      url: "https://scholar.google.com/citations?user=mxAIgvkAAAAJ&hl=en&oi=ao"
 
 footer:
   links:
