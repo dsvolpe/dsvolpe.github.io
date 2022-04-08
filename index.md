@@ -6,5 +6,5 @@ title: Daniel Serrano - Professional Site
 layout: single
 author_profile: true
 header:
-  image: assets/images/DSC_0071.jpg
+  image: assets/images/DSC_0071.JPG
 ---
