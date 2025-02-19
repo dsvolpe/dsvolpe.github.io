@@ -29,7 +29,15 @@ latest_posts:
 
 🚧 This page is currently under construction using the [al-folio Jekyll template](https://github.com/alshedivat/al-folio). Template language will inhabit it for a bit! 🚧
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Senior Faculty Specialist at the University of Maryland [IPST](https://ipst.umd.edu) (Institute for Physical Science & Technology). My areas of expertise are:
+- Education and training program administration
+- Grant proposal development, from ideation to submission
+- Science outreach
+
+I am also interested in these areas and open to growing my expertise in them:
+- Convergence between arts and sciences
+- Education research
+- Arts (especially graphic design and animation)
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
