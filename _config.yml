@@ -152,6 +152,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  portfolio:
+    output: true
+    permalink: /:collection/:title/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
