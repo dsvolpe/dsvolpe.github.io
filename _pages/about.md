@@ -27,7 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-🚧 I use this page as an example in workshops where I teach students how to create professional pages, so it is mostly incomplete and under construction. 🚧
+🚧 I use this page as an example in workshops where I teach students how to create professional pages, so it is mostly under construction. 🚧
+
 For most complete and up-to date information about me, check out my [Linked-In profile](https://www.linkedin.com/in/dsvolpe/).
 
 I am a Senior Faculty Specialist at the University of Maryland [IPST](https://ipst.umd.edu) (Institute for Physical Science & Technology). My areas of expertise are:
