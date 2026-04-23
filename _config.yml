@@ -155,6 +155,18 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:title/
+  pm:
+    output: true
+    permalink: /:collection/:title/
+  teaching:
+    output: true
+    permalink: /:collection/:title/
+  pe:
+    output: true
+    permalink: /:collection/:title/
+  design:
+    output: true
+    permalink: /:collection/:title/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

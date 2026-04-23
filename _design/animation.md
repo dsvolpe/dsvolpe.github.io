@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 6
+title: Animation
 description: a project with no image
-img:
+img: assets/img/design_animation.jpg
 importance: 4
 category: fun
 ---

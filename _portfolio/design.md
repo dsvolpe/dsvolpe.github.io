@@ -1,12 +1,11 @@
 ---
 layout: page
-title: portfolio
-permalink: /portfolio/
-description: A growing collection of your cool portfolio.
-nav: true
-nav_order: 2
-display_categories: 
-horizontal: false
+title: (Visual) Design
+description: with background image
+img: assets/img/portfolio_design.jpg
+importance: 5
+category: work
+related_publications: false
 ---
 
 <!-- pages/projects.md -->
@@ -17,7 +16,7 @@ horizontal: false
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.portfolio | where: "category", category %}
+  {% assign categorized_projects = site.design | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
@@ -41,7 +40,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.portfolio | sort: "importance" %}
+{% assign sorted_projects = site.design | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
