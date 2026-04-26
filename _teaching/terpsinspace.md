@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Space Science
-description: a project with a background image
+title: Terps in Space Curriculum
+description: Six-module course on microgravity research
 img: assets/img/teaching_terpsinspace.jpg
 importance: 7
 category: fun

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quantum Steampunk
-description: with background image
+description: Disseminating a quantum sculpture, evaluating a sci-fi course
 img: assets/img/pe_qsteampunk.jpg
 importance: 2
 category: work

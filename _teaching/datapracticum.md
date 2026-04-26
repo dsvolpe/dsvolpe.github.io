@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Scientific Communication
-description: a project that redirects to another website
+title: Data Practicum
+description: Graduate course in interdisciplinary communication
 img: assets/img/teaching_datapracticum.jpg
 redirect: https://unsplash.com
 importance: 1

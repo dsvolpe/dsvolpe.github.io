@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Quantum Computing
-description: a project with a background image and giscus comments
+title: MathQuantum Summer Bootcamp
+description: Two-week high school quantum computing program
 img: assets/img/teaching_mathquantumhs.jpg
 importance: 5
 category: work

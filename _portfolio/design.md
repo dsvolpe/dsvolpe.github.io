@@ -1,7 +1,7 @@
 ---
 layout: page
-title: (Visual) Design
-description: with background image
+title: Visual Design
+description: 
 img: assets/img/portfolio_design.jpg
 importance: 5
 category: work

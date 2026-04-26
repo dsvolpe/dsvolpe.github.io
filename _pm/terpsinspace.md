@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terps in Space
-description: another project with an image 🎉
+description: Undergraduate research program in space science
 img: assets/img/pm_terpsinspace.jpg
 importance: 5
 category: fun

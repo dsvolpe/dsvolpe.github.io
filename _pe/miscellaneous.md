@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Other
-description: an other project with a background image and giscus comments
+description: Various outreach projects
 img: assets/img/pe_miscellaneous.jpg
 importance: 6
 category: work

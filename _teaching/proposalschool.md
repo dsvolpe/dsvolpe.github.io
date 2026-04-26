@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Proposal Development
-description: another project with an image 🎉
+title: Proposal Summer School
+description: Summer-long course on research proposal development
 img: assets/img/teaching_proposalschool.jpg
 importance: 3
 category: fun

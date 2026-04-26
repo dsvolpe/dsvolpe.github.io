@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-description: an other project with a background image and giscus comments
+description: 
 img: assets/img/portfolio_teaching.jpg
 importance: 3
 category:

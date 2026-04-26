@@ -1,28 +1,35 @@
 ---
 layout: page
 title: MathQuantum
-description: with background image
+description: Research fellowships in mathematics of quantum information
 img: assets/img/pm_mathquantum.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-The NIST PML/UMD Fellows Program was a nanotechnology NIST Nanoscale Science and Technology Postdoctoral and Visiting Senior Fellowship Program.
+MathQuantum is a research fellows program funded by NSF's RTG (Research Training Grants) that started in 2023 at UMD.
+We offer fellowships to high school students, undergraduate students, graduate students, and postdocs, making this a highly complex program to manage.
+The scientific focus is intentionally intersecting mathematics and quantum information science for mutual enhancement.
 
-The UMD/NIST PML fellows program is formally know as the NIST Nanoscale Science and Technology Postdoctoral and Visiting Senior Fellowship Program.
+As co-PI, Director of Education, and Program Manager for MathQuantum, I lead and execute all program activities: advertisement, recruitment, admissions, event planning, progress tracking, assessment, budgeting, and reporting.
 
-The program ws funded by a cooperative agreement between the NIST PML (Physical Measurement Laboratory) and UMD's IREAP, and supported research projects within various nanoscience measurement topics.
-
-Researchers at all levels were hired at UMD's IREAP to work at NIST PML in Gaithersburg, MD with mentorship from a project leader from either the Microsystems and Nanotechnology Division or the Nanoscale Device Characterization Division.
-
-Fellows published and presented at professional conferences while receiving personalized professional development mentorship as part of the program. Alumni went on to positions in academia, government labs, and industry.
-
-The program existed from 2006 to 2020, starting under the leadership of Ellen Williams, and has served 170 fellows to date.
-I was Scientific Coordinator of the program from 2014 to 2020 (adding co-PI role in 2019).
+Here is a subset of key contributions:
+- Developed the grant proposal that funded the program ($2,500,000)
+- Design the program visual brand, along with recruitment flyers and event banners (samples below)
+- Design and teach annual week-long workshop on societal implications of quantum computing
+- Design and teach annual summer-long course on research proposal development
+- Co-design and co-teach annual two-week quantum computing high school program
+- Co-develop and co-facilitate team research seminar (RIT, Research Interaction Team)
+- Provide one-on-one career planning consultations
+- Track and support fellow program progress
+- Assist with or delegate fellow payroll and travel logistics
+- Monitor and project budget
+- Co-develop, co-implement, and co-analyze assessment surveys, leading to program improvements
+- Co-wrote journal article reporting on assessment data (under review)
 
 Associated grants:
-NIST UMD Cooperative agreement - Dan Lathrop PI, Daniel Serrano co-PI, dollar amount
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

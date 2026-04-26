@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Dialogue
-description: a project with no image
+title:  Dialogue for Equity
+description: Undergraduate courses on equity in STEM
 img: assets/img/teaching_dialogue.jpg
 importance: 6
 category: fun

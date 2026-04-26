@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Making Comics
-description: with background image
+title: Making Comics Workshop
+description: Four-session workshop on science comics
 img: assets/img/teaching_comics.jpg
 importance: 4
 category: work

@@ -1,16 +1,28 @@
 ---
 layout: page
 title: NIST Nanoscience
-description: a project that redirects to another website
+description: Postdoctoral fellowships in nanoscience
 img: assets/img/pm_nistnano.jpg
 redirect: https://unsplash.com
 importance: 4
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The NIST PML/UMD Fellows Program was a nanotechnology NIST Nanoscale Science and Technology Postdoctoral and Visiting Senior Fellowship Program.
+
+The UMD/NIST PML fellows program is formally know as the NIST Nanoscale Science and Technology Postdoctoral and Visiting Senior Fellowship Program.
+
+The program ws funded by a cooperative agreement between the NIST PML (Physical Measurement Laboratory) and UMD's IREAP, and supported research projects within various nanoscience measurement topics.
+
+Researchers at all levels were hired at UMD's IREAP to work at NIST PML in Gaithersburg, MD with mentorship from a project leader from either the Microsystems and Nanotechnology Division or the Nanoscale Device Characterization Division.
+
+Fellows published and presented at professional conferences while receiving personalized professional development mentorship as part of the program. Alumni went on to positions in academia, government labs, and industry.
+
+The program existed from 2006 to 2020, starting under the leadership of Ellen Williams, and has served 170 fellows to date.
+I was Scientific Coordinator of the program from 2014 to 2020 (adding co-PI role in 2019).
+
+Associated grants:
+NIST UMD Cooperative agreement - Dan Lathrop PI, Daniel Serrano co-PI, dollar amount
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

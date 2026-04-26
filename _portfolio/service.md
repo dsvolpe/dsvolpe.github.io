@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Service
-description: a project with a background image and giscus comments
+description: 
 img: assets/img/portfolio_service.jpg
 importance: 6
 category: work

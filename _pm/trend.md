@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TREND
-description: with background image
+description: Undergraduate research program in nonlinear dynamics
 img: assets/img/pm_trend.jpg
 importance: 2
 category: work

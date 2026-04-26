@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Science program manager / Outreach practitioner and educator
 
 profile:
   align: right
@@ -17,26 +17,27 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-🚧 I use this page as an example in workshops where I teach students how to create professional pages, so it is mostly under construction. 🚧
-
-For most complete and up-to date information about me, check out my [Linked-In profile](https://www.linkedin.com/in/dsvolpe/).
+🚧🚧🚧
+I use this page as an example in workshops where I teach students how to create professional pages, so it is mostly under construction.
+For most complete and up-to date information about me, check out my [LinkedIn profile](https://www.linkedin.com/in/dsvolpe/).
+🚧🚧🚧
 
 I am a Senior Faculty Specialist at the University of Maryland [IPST](https://ipst.umd.edu) (Institute for Physical Science & Technology). My areas of expertise are:
-- Education and training program administration
+- Program administration (focus on research and education)
 - Grant proposal development, from ideation to submission
 - Science outreach
 
-I am also interested in these areas and open to growing my expertise in them:
+I am also interested growing my expertise in these areas:
 - Convergence between arts and sciences
 - Education research
 - Arts (especially graphic design and animation)

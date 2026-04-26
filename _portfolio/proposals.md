@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Proposal Development
-description: a project with no image
+description: 
 img: assets/img/portfolio_proposaldevelopment.jpg
 importance: 4
 category: fun

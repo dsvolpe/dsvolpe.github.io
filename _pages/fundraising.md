@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /fundraising/
+title: fundraising
+description: All the money I've obtained or helped obtain.
 nav: false
 nav_order: 6
 calendar: true

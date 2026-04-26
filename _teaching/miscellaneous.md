@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshops etc.
-description: an other project with a background image and giscus comments
+description: Smaller teaching endeavors
 img: assets/img/teaching_miscellaneous.jpg
 importance: 8
 category: work

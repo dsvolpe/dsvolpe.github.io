@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Science Journalism
-description: another project with an image 🎉
+description: Disseminating science as a AAAS Mass Media Fellow
 img: assets/img/pe_aaasmmf.jpg
 importance: 4
 category: fun

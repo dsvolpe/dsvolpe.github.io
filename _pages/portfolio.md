@@ -2,7 +2,7 @@
 layout: page
 title: portfolio
 permalink: /portfolio/
-description: A growing collection of your cool portfolio.
+description: All the stuff I've done, split by categories
 nav: true
 nav_order: 2
 display_categories: 

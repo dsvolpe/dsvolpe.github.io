@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program Management
-description: a project with a background image
+description: 
 img: assets/img/portfolio_programmanagement.jpg
 importance: 1
 category: fun

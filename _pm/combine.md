@@ -1,15 +1,29 @@
 ---
 layout: page
 title: COMBINE
-description: a project with no image
+description: Graduate fellowships in network biology
 img: assets/img/pm_combine.jpg
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+COMBINE was a graduate fellowship program funded by NSF's NRT (NSF Research Traineeship) that ran from 2017 to 2022 at UMD.
+The scientific focus was network science across biological scales.
+
+As Research Educator of COMBINE, I designed and taught curriculum.
+
+I was also heavily involved in co-managing the program, leading and/or helping with: recruitment, admissions, event planning, progress tracking, assessment, and reporting.
+
+Here is a subset of key contributions:
+- Helped develop the grant proposal that funded the program ($2,959,866)
+- Designed the program visual brand, along with recruitment flyers and event banners (samples below)
+- Co-designed and co-taught 4 semesters of graduate course on scientific communication (PHYS782: Interdisciplinary Research and Communication Practicum for Data-Driven Science; [2020 syllabus](https://drive.google.com/file/d/17JdIJpWBLdDDctDQ994MhI4oStpBNIh8/view?usp=share_link))
+- Tracked and supported graduate fellow program progress
+- Co-developed, co-implemented, and co-analyzed assessment surveys, leading to program improvements
+- Co-wrote journal article reporting on assessment data ([PLOS One 2021](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257872))
+
+Associated grants:
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

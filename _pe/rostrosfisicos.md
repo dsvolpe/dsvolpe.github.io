@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rostros Físicos
-description: a project that redirects to another website
+description: Directing a video series about Latine physicists
 img: assets/img/pe_rostrosfisicos.jpg
 redirect: https://unsplash.com
 importance: 1

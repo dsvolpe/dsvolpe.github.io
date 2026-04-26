@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Broader Impacts
-description: with background image
+title: Broader Impacts Workshop
+description: One-week workshop on societal impact
 img: assets/img/teaching_biworkshop.jpg
 importance: 2
 category: work

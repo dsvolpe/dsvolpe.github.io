@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Logos
-description: with background image
+description: 
 img: assets/img/design_logos.jpg
 importance: 2
 category: work

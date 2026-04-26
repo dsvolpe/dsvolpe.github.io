@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Public Engagement
-description: with background image
+description: 
 img: assets/img/portfolio_publicengagement.jpg
 importance: 2
 category: work

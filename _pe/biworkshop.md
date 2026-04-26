@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Broader Impacts
-description: a project with no image
+title: Broader Impacts Workshop
+description: Empowering students to pursue societal impact
 img: assets/img/pe_biworkshop.jpg
 importance: 5
 category: fun

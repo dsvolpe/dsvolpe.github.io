@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Multimedia
-description: with background image
+title: TREND Media Projects
+description: Guiding 100s of undergrad-created multimedia projects
 img: assets/img/pe_trendmedia.jpg
 importance: 3
 category: work
