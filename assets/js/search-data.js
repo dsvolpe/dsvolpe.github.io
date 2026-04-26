@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-portfolio",
           title: "portfolio",
-          description: "A growing collection of your cool portfolio.",
+          description: "All the stuff I&#39;ve done, split by categories",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/";
@@ -384,27 +384,27 @@ ninja.data = [{
       },
     },{id: "design-trend-shirts",
           title: 'TREND Shirts',
-          description: "a project that redirects to another website",
+          description: "",
           section: "Design",handler: () => {
               window.location.href = "/design/TRENDshirts/";
             },},{id: "design-advertising",
           title: 'Advertising',
-          description: "another project with an image 🎉",
+          description: "",
           section: "Design",handler: () => {
               window.location.href = "/design/advertising/";
             },},{id: "design-animation",
           title: 'Animation',
-          description: "a project with no image",
+          description: "",
           section: "Design",handler: () => {
               window.location.href = "/design/animation/";
             },},{id: "design-logos",
           title: 'Logos',
-          description: "with background image",
+          description: "",
           section: "Design",handler: () => {
               window.location.href = "/design/logos/";
             },},{id: "design-scientific-figures",
           title: 'Scientific Figures',
-          description: "with background image",
+          description: "",
           section: "Design",handler: () => {
               window.location.href = "/design/scientific/";
             },},{id: "news-a-simple-inline-announcement",
@@ -420,87 +420,87 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "pe-science-journalism",
           title: 'Science Journalism',
-          description: "another project with an image 🎉",
+          description: "Disseminating science as a AAAS Mass Media Fellow",
           section: "Pe",handler: () => {
               window.location.href = "/pe/aaasmmf/";
-            },},{id: "pe-broader-impacts",
-          title: 'Broader Impacts',
-          description: "a project with no image",
+            },},{id: "pe-broader-impacts-workshop",
+          title: 'Broader Impacts Workshop',
+          description: "Empowering students to pursue societal impact",
           section: "Pe",handler: () => {
               window.location.href = "/pe/biworkshop/";
             },},{id: "pe-other",
           title: 'Other',
-          description: "an other project with a background image and giscus comments",
+          description: "Various outreach projects",
           section: "Pe",handler: () => {
               window.location.href = "/pe/miscellaneous/";
             },},{id: "pe-quantum-steampunk",
           title: 'Quantum Steampunk',
-          description: "with background image",
+          description: "Disseminating a quantum sculpture, evaluating a sci-fi course",
           section: "Pe",handler: () => {
               window.location.href = "/pe/qsteampunk/";
             },},{id: "pe-rostros-físicos",
           title: 'Rostros Físicos',
-          description: "a project that redirects to another website",
+          description: "Directing a video series about Latine physicists",
           section: "Pe",handler: () => {
               window.location.href = "/pe/rostrosfisicos/";
-            },},{id: "pe-multimedia",
-          title: 'Multimedia',
-          description: "with background image",
+            },},{id: "pe-trend-media-projects",
+          title: 'TREND Media Projects',
+          description: "Guiding 100s of undergrad-created multimedia projects",
           section: "Pe",handler: () => {
               window.location.href = "/pe/trendmedia/";
             },},{id: "pm-combine",
           title: 'COMBINE',
-          description: "a project with no image",
+          description: "Graduate fellowships in network biology",
           section: "Pm",handler: () => {
               window.location.href = "/pm/combine/";
             },},{id: "pm-mathquantum",
           title: 'MathQuantum',
-          description: "with background image",
+          description: "Research fellowships in mathematics of quantum information",
           section: "Pm",handler: () => {
               window.location.href = "/pm/mathquantum/";
             },},{id: "pm-nist-nanoscience",
           title: 'NIST Nanoscience',
-          description: "a project that redirects to another website",
+          description: "Postdoctoral fellowships in nanoscience",
           section: "Pm",handler: () => {
               window.location.href = "/pm/nistnano/";
             },},{id: "pm-terps-in-space",
           title: 'Terps in Space',
-          description: "another project with an image 🎉",
+          description: "Undergraduate research program in space science",
           section: "Pm",handler: () => {
               window.location.href = "/pm/terpsinspace/";
             },},{id: "pm-trend",
           title: 'TREND',
-          description: "with background image",
+          description: "Undergraduate research program in nonlinear dynamics",
           section: "Pm",handler: () => {
               window.location.href = "/pm/trend/";
             },},{id: "portfolio-visual-design",
-          title: '(Visual) Design',
-          description: "with background image",
+          title: 'Visual Design',
+          description: "",
           section: "Portfolio",handler: () => {
               window.location.href = "/portfolio/design/";
             },},{id: "portfolio-public-engagement",
           title: 'Public Engagement',
-          description: "with background image",
+          description: "",
           section: "Portfolio",handler: () => {
               window.location.href = "/portfolio/pe/";
             },},{id: "portfolio-program-management",
           title: 'Program Management',
-          description: "a project with a background image",
+          description: "",
           section: "Portfolio",handler: () => {
               window.location.href = "/portfolio/pm/";
             },},{id: "portfolio-proposal-development",
           title: 'Proposal Development',
-          description: "a project with no image",
+          description: "",
           section: "Portfolio",handler: () => {
               window.location.href = "/portfolio/proposals/";
             },},{id: "portfolio-service",
           title: 'Service',
-          description: "a project with a background image and giscus comments",
+          description: "",
           section: "Portfolio",handler: () => {
               window.location.href = "/portfolio/service/";
             },},{id: "portfolio-teaching",
           title: 'Teaching',
-          description: "an other project with a background image and giscus comments",
+          description: "",
           section: "Portfolio",handler: () => {
               window.location.href = "/portfolio/teaching/";
             },},{id: "projects-project-3-with-very-long-name",
@@ -548,44 +548,44 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/trend/";
-            },},{id: "teaching-broader-impacts",
-          title: 'Broader Impacts',
-          description: "with background image",
+            },},{id: "teaching-broader-impacts-workshop",
+          title: 'Broader Impacts Workshop',
+          description: "One-week workshop on societal impact",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/biworkshop/";
-            },},{id: "teaching-making-comics",
-          title: 'Making Comics',
-          description: "with background image",
+            },},{id: "teaching-making-comics-workshop",
+          title: 'Making Comics Workshop',
+          description: "Four-session workshop on science comics",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/comics/";
-            },},{id: "teaching-scientific-communication",
-          title: 'Scientific Communication',
-          description: "a project that redirects to another website",
+            },},{id: "teaching-data-practicum",
+          title: 'Data Practicum',
+          description: "Graduate course in interdisciplinary communication",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/datapracticum/";
-            },},{id: "teaching-dialogue",
-          title: 'Dialogue',
-          description: "a project with no image",
+            },},{id: "teaching-dialogue-for-equity",
+          title: 'Dialogue for Equity',
+          description: "Undergraduate courses on equity in STEM",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/dialogue/";
-            },},{id: "teaching-quantum-computing",
-          title: 'Quantum Computing',
-          description: "a project with a background image and giscus comments",
+            },},{id: "teaching-mathquantum-summer-bootcamp",
+          title: 'MathQuantum Summer Bootcamp',
+          description: "Two-week high school quantum computing program",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/mathquantumhs/";
             },},{id: "teaching-workshops-etc",
           title: 'Workshops etc.',
-          description: "an other project with a background image and giscus comments",
+          description: "Smaller teaching endeavors",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/miscellaneous/";
-            },},{id: "teaching-proposal-development",
-          title: 'Proposal Development',
-          description: "another project with an image 🎉",
+            },},{id: "teaching-proposal-summer-school",
+          title: 'Proposal Summer School',
+          description: "Summer-long course on research proposal development",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/proposalschool/";
-            },},{id: "teaching-space-science",
-          title: 'Space Science',
-          description: "a project with a background image",
+            },},{id: "teaching-terps-in-space-curriculum",
+          title: 'Terps in Space Curriculum',
+          description: "Six-module course on microgravity research",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/terpsinspace/";
             },},{
@@ -593,35 +593,21 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%64%73%76%6F%6C%70%65@%75%6D%64.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/dsvolpe", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=mxAIgvkAAAAJ&hl=en", "_blank");
         },
       },{
       id: 'light-theme',
