@@ -9,7 +9,7 @@ images:
   lightbox2: true
 ---
 
-Shirts co-designed with undergrad Physics students through design workshops led by me
+Shirts co-created with undergrad Physics students through design workshops I led
 
 <a href="/assets/img/trendshirt_2018_full.png" data-lightbox="roadtrip"><img src="/assets/img/trendshirt_2018_crop.png" /></a>
 <a href="/assets/img/trendshirt_2019_full.png" data-lightbox="roadtrip"><img src="/assets/img/trendshirt_2019_crop.png" /></a>
