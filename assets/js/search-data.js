@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-fundraising",
+          title: "fundraising",
+          description: "All the money I&#39;ve obtained or helped obtain.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/fundraising/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
