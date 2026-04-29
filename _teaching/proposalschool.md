@@ -7,9 +7,11 @@ importance: 3
 category: fun
 ---
 
-This is a course on the principles of proposal development that I developed and teach yearly (2024 to present).
+This is a summer program on the principles of proposal development that I designed and teach yearly (2024 to present).
 
-It involves multiple hands-on workshops, weekly writing groups, one-on-one (peer) feedback, and a mock proposal review panel. The curriculum is below, with linked slides and activity worksheets.
+It involves multiple hands-on workshops, weekly writing groups, one-on-one (peer) feedback, and a mock proposal review panel.
+
+The curriculum is below, with linked slides and activity worksheets. Note that linked documents are not originals used for teaching; file conversions might have damaged formatting and aesthetics.
 
 I created this course in my role as co-PI and Director of Education of the [MathQuantum research training program](/pm/mathquantum/).
 

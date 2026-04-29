@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Broader Impacts Workshop
-description: One-week workshop on societal impact
+description: One-week workshop on societal impact of science
 img: assets/img/teaching_biworkshop.jpg
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
 This is a one-week program on the societal impact of science that I designed and teach yearly (2025 to present).
