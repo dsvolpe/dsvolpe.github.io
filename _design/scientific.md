@@ -28,3 +28,4 @@ Figures for papers, posters, proposals
 <a href="/assets/img/sci_transwell_full.png" data-lightbox="roadtrip"><img src="/assets/img/sci_transwell_crop.png" /></a>
 
 <a href="/assets/img/sci_wbctm_full.png" data-lightbox="roadtrip"><img src="/assets/img/sci_wbctm_crop.png" /></a>
+<a href="/assets/img/sci_icam_full.png" data-lightbox="roadtrip"><img src="/assets/img/sci_icam_crop.png" /></a>
