@@ -8,6 +8,8 @@ nav_order: 4
 calendar: true
 pretty_table: true
 ---
+Collectivelly, I have raised or helped raise over $7M in funds for science, research, and outreach projects.
+
 ## Grants written or co-written
 
 | Funder | Title | My role | Amount | Status |
