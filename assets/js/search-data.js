@@ -557,7 +557,7 @@ ninja.data = [{
               window.location.href = "/projects/trend/";
             },},{id: "teaching-broader-impacts-workshop",
           title: 'Broader Impacts Workshop',
-          description: "One-week workshop on societal impact",
+          description: "One-week workshop on societal impact of science",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/biworkshop/";
             },},{id: "teaching-making-comics-workshop",
