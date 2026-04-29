@@ -5,89 +5,46 @@ description: Four-session workshop on science comics
 img: assets/img/teaching_comics.jpg
 importance: 4
 category: work
-related_publications: true
+related_publications: false
 ---
 
-The NIST PML/UMD Fellows Program was a nanotechnology NIST Nanoscale Science and Technology Postdoctoral and Visiting Senior Fellowship Program.
+This is a 4-session workshop on making comics to communicate scientific concepts that I designed. I taught it yearly between 2021 and 2025, resulting in the ~50 undergrad-crafted comics seen [here](https://trend.umd.edu/media.html).
 
-The UMD/NIST PML fellows program is formally know as the NIST Nanoscale Science and Technology Postdoctoral and Visiting Senior Fellowship Program.
+The slides are below. Note that these are not originals used for teaching; file conversions might have damaged formatting and aesthetics.
 
-The program ws funded by a cooperative agreement between the NIST PML (Physical Measurement Laboratory) and UMD's IREAP, and supported research projects within various nanoscience measurement topics.
+I created this workshop in my role as Director for the [TREND undergraduate research program](/pm/trend/).
 
-Researchers at all levels were hired at UMD's IREAP to work at NIST PML in Gaithersburg, MD with mentorship from a project leader from either the Microsystems and Nanotechnology Division or the Nanoscale Device Characterization Division.
-
-Fellows published and presented at professional conferences while receiving personalized professional development mentorship as part of the program. Alumni went on to positions in academia, government labs, and industry.
-
-The program existed from 2006 to 2020, starting under the leadership of Ellen Williams, and has served 170 fellows to date.
-I was Scientific Coordinator of the program from 2014 to 2020 (adding co-PI role in 2019).
-
-Associated grants:
-NIST UMD Cooperative agreement - Dan Lathrop PI, Daniel Serrano co-PI, dollar amount
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+## Session 0
+<div style="width: 100%; overflow: hidden;">
+  <iframe 
+    src="https://drive.google.com/file/d/1zmY0XkbI_gWF0ii2gpvnmLEeQS89KNUm/preview" 
+    style="width: 100%; height: 600px; border: none; transform: scale(1.0); transform-origin: 0 0;">
+  </iframe>
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+<br>
+## Session 1
+<div style="width: 100%; overflow: hidden;">
+  <iframe 
+    src="https://drive.google.com/file/d/13NPJFfBEa1Kl7dh-WiDP_s5hBmWm3b8N/preview" 
+    style="width: 100%; height: 600px; border: none; transform: scale(1.0); transform-origin: 0 0;">
+  </iframe>
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<br>
+## Session 2
+<div style="width: 100%; overflow: hidden;">
+  <iframe 
+    src="https://drive.google.com/file/d/1rVBY7OFLC0rnWYMZ6LI1c0_J9q1ISz9w/preview" 
+    style="width: 100%; height: 600px; border: none; transform: scale(1.0); transform-origin: 0 0;">
+  </iframe>
 </div>
-```
 
-{% endraw %}
+<br>
+## Session 3
+<div style="width: 100%; overflow: hidden;">
+  <iframe 
+    src="https://drive.google.com/file/d/1jP3osQAgrK2GNmm1IkkXGrgSPfA9r_jY/preview" 
+    style="width: 100%; height: 600px; border: none; transform: scale(1.0); transform-origin: 0 0;">
+  </iframe>
+</div>

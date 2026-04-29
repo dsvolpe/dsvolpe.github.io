@@ -14,7 +14,7 @@ Its goals are to teach participants about societal impact, give them an opportun
 
 The curriculum is below, with linked slides and activity worksheets. Note that linked documents are not originals used for teaching; file conversions might have damaged formatting and aesthetics.
 
-I created this course in my role as co-PI and Director of Education of the [MathQuantum research training program](/pm/mathquantum/).
+I created this workshop in my role as co-PI and Director of Education of the [MathQuantum research training program](/pm/mathquantum/).
 
 <div style="width: 100%; overflow: hidden;">
   <iframe 
