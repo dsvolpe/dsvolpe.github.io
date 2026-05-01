@@ -592,7 +592,7 @@ ninja.data = [{
               window.location.href = "/teaching/proposalschool/";
             },},{id: "teaching-terps-in-space-curriculum",
           title: 'Terps in Space Curriculum',
-          description: "Six-module course on microgravity research",
+          description: "Seven-module course on microgravity research",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/terpsinspace/";
             },},{
