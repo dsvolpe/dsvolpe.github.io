@@ -14,7 +14,7 @@ The program consists of lectures, hands-on activities, interactive sessions, and
 
 I built the program individually on its first year. On year two, I recruited one of the year-one high school participants to redesign and teach the mathematics lectures under my mentorship.
 
-The course content is below, including the schedule with some slides linked. I am happy to share other materials upon request. Note that the embed is the original used for teaching; file conversions might have damaged formatting and aesthetics. 
+The course content is below, including the schedule with some slides linked. I am happy to share other materials upon request. Note that the embed is not the original used for teaching; file conversions might have damaged formatting and aesthetics. 
 
 I created this bootcamp in my role as co-PI and Director of Education of the [MathQuantum research training program](/pm/mathquantum/).
 
