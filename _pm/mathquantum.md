@@ -8,6 +8,12 @@ category: work
 related_publications: true
 ---
 
+- Program name: MathQuantum
+- Funding: $2.5M
+- Website: [www.mathquantum.umd.edu](https://www.mathquantum.umd.edu)
+- Duration: 2023 - present
+- My involvement: 2023 - present
+
 MathQuantum is a research fellows program funded by NSF's RTG (Research Training Grants) that started in 2023 at UMD.
 We offer fellowships to high school students, undergraduate students, graduate students, and postdocs, making this a highly complex program to manage.
 The scientific focus is intentionally intersecting mathematics and quantum information science for mutual enhancement.

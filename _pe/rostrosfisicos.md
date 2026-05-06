@@ -3,14 +3,40 @@ layout: page
 title: Rostros Físicos
 description: Directing a video series about Latine physicists
 img: assets/img/pe_rostrosfisicos.jpg
-redirect: https://unsplash.com
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In 2020, I led a team of 4 to produce a video series highlightin 11 Latine physicists from all career stages. We executed the project on a very modest budget ($10K) that I obtained through a grand proposal to APS (American Physical Society).
+Project website: [rostros.umd.edu](https://www.rostros.umd.edu)
+
+<div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); grid-column-gap: 1em;">
+<div><iframe src="https://www.youtube.com/embed/8JSRt4POkto" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe src="https://www.youtube.com/embed/TTsPyKFoPfg" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe src="https://www.youtube.com/embed/dGtapf-u6SU" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/B9pIkNaxIuU" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/OqxZbeJc4SQ" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/lwfc0-frf_I" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/BPqjJWd9Ubc" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/-FYyD_GSJzs" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/1Ft2_DxyGFI" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/6ZlKkf4NYHE" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/rbqZR5gAIfs" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/88eQQdpwdYk" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/_L_i-D_jvaQ" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/isKjvutVywY" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/j-xVkPRro00" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/LQaf9HHWGR0" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/UKBAkKT7Geo" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/za6iFGdDlnE" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/L74Mzf_RCUM" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/k2Byp25kCdY" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/IW5I43iKCIQ" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/5toqUAP-Aes" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/5g0e2vNzTgM" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/_s1ePMo7KWI" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe loading="lazy" src="https://www.youtube.com/embed/0EAvNkMGCnE" width="280" height="157" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

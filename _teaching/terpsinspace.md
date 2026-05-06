@@ -16,5 +16,5 @@ As Director of the [Terps in Space program](/pm/terpsinspace/), I co-designed an
 - Module 4: Navigating and Searching Literature
 - Module 5: Experimental Constraints
 - Module 6.1: Creative Experimental Design
-- Module 6:.2 Creative Experimental Design
+- Module 6.2: Creative Experimental Design
 - Module 7: Research Proposals

@@ -8,9 +8,13 @@ importance: 4
 category: work
 ---
 
-The NIST PML/UMD Fellows Program was a nanotechnology NIST Nanoscale Science and Technology Postdoctoral and Visiting Senior Fellowship Program.
+- Program name: NIST Nanoscale Science and Technology Postdoctoral and Visiting Senior Fellowship Program
+- Funding: $35M
+- Website: [ireap.umd.edu/nist-fellows](https://ireap.umd.edu/nist-fellows)
+- Duration: 2014 - 2021
+- My involvement: 2014 - 2021
 
-The UMD/NIST PML fellows program is formally know as the NIST Nanoscale Science and Technology Postdoctoral and Visiting Senior Fellowship Program.
+The NIST PML/UMD Fellows Program was a nanotechnology initiative that supported postdoctoral research.
 
 The program ws funded by a cooperative agreement between the NIST PML (Physical Measurement Laboratory) and UMD's IREAP, and supported research projects within various nanoscience measurement topics.
 

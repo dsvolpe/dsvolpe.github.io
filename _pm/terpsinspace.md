@@ -7,9 +7,13 @@ importance: 5
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+- Program name: Terps in Space
+- Funding: $277K
+- Website: [terpsinspace.umd.edu](https://terpsinspace.umd.edu)
+- Duration: 2016 - 2022
+- My involvement: 2016 - 2022
+
+Terps in Space was an undergraduate program where student teams desgined their own experiments to test the role of microgravity (conditions at the International Space Station) on a system of their choice. Team then wrote proposals and one of them was selected to fly their experiment to the ISS.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
