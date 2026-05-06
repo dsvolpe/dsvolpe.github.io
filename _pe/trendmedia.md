@@ -10,6 +10,28 @@ related_publications: true
 
 The NIST PML/UMD Fellows Program was a nanotechnology NIST Nanoscale Science and Technology Postdoctoral and Visiting Senior Fellowship Program.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="https://drive.google.com/file/d/1fbBvcXND5S4ibRBwGEkLiO2A1gEAZ3wU/view">
+        {% include figure.liquid loading="eager" path="/assets/img/trendmedia/bielawski2025.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+        </a>
+        <b>Luke Bielawski</b> - Comic on bacteria flocking
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="https://drive.google.com/file/d/1goE9T0cztTqQPZey1QIjtmYA0o46Gf_c/view">
+        {% include figure.liquid loading="eager" path="/assets/img/trendmedia/gonzalez2025.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+        </a>
+        <b>Christian Gonzalez</b> - Comic on plasma physics
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="https://drive.google.com/file/d/1-SpfV-yjKdTq9Jh6438UKgu77mMWF-7E/view">
+        {% include figure.liquid loading="eager" path="/assets/img/trendmedia/kim2025.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+        </a>
+        <b>Jin Young Kim</b> - Comic on galaxy magnetic fields
+    </div>
+</div>
+
+
 <h2 id="2025">2025</h2><p><a href="https://trend.umd.edu/media.html#top">Top</a></p>
 <div class="posts">
 <article>
