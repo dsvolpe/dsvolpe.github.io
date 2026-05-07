@@ -5,7 +5,8 @@ description: Disseminating a quantum sculpture, evaluating a sci-fi course
 img: assets/img/pe_qsteampunk.jpg
 importance: 2
 category: work
-related_publications: true
+redirect: https://quantumsteampunk.org
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

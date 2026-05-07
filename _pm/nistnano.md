@@ -3,7 +3,6 @@ layout: page
 title: NIST Nanoscience
 description: Postdoctoral fellowships in nanoscience
 img: assets/img/pm_nistnano.jpg
-redirect: https://unsplash.com
 importance: 4
 category: work
 ---
