@@ -11,7 +11,7 @@ related_publications: true
 - Program name: TREND (Training and Research Experiences in Nonlinear Dynamics)
 - Funding: $2M
 - Website: [trend.umd.edu](https://trend.umd.edu)
-- Duration: 2003 - Present
+- Duration: 2003 - present
 - My involvement: 2014 - 2025
 
 Every project has a beautiful feature showcase page.
