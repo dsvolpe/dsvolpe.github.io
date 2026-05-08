@@ -8,683 +8,736 @@ category: work
 related_publications: true
 ---
 
-The NIST PML/UMD Fellows Program was a nanotechnology NIST Nanoscale Science and Technology Postdoctoral and Visiting Senior Fellowship Program.
+<a id="top"></a>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <a href="https://drive.google.com/file/d/1fbBvcXND5S4ibRBwGEkLiO2A1gEAZ3wU/view">
-        {% include figure.liquid loading="eager" path="/assets/img/trendmedia/bielawski2025.webp" title="example image" class="img-fluid rounded z-depth-1" %}
-        </a>
-        <b>Luke Bielawski</b> - Comic on bacteria flocking
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <a href="https://drive.google.com/file/d/1goE9T0cztTqQPZey1QIjtmYA0o46Gf_c/view">
-        {% include figure.liquid loading="eager" path="/assets/img/trendmedia/gonzalez2025.webp" title="example image" class="img-fluid rounded z-depth-1" %}
-        </a>
-        <b>Christian Gonzalez</b> - Comic on plasma physics
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <a href="https://drive.google.com/file/d/1-SpfV-yjKdTq9Jh6438UKgu77mMWF-7E/view">
-        {% include figure.liquid loading="eager" path="/assets/img/trendmedia/kim2025.webp" title="example image" class="img-fluid rounded z-depth-1" %}
-        </a>
-        <b>Jin Young Kim</b> - Comic on galaxy magnetic fields
-    </div>
-</div>
+Between 2016 and 2025, as Program Manager/Director of the TREND undergraduate program, I mentored 100+ students in the creation of science communication multimedia projects. All projects are featured below.
 
+I did this on a one-on-one basis with each student between 2016 and 2020. From 2021 to 2025, I developed a workshop series on making science comics, so the approach was more group-based, while I still provided personalized input to each student.
 
-<h2 id="2025">2025</h2><p><a href="https://trend.umd.edu/media.html#top">Top</a></p>
-<div class="posts">
-<article>
-    <a href="https://drive.google.com/file/d/1fbBvcXND5S4ibRBwGEkLiO2A1gEAZ3wU/view" class="image"><img src="/assets/img/trendmedia/bielawski2025.webp" alt=""></a>
-    <h4>Luke Bielawski (Kuan, Trivisa)</h4>
-    <p>Comic on bacteria flocking</p>
-</article>
-<article>
-    <a href="https://drive.google.com/file/d/1goE9T0cztTqQPZey1QIjtmYA0o46Gf_c/view" class="image"><img src="./TREND REU Program - Media Projects_files/gonzalez2025.webp" alt=""></a>
-    <h4>Christian Gonzalez (Beaudoin)</h4>
-    <p>Comic on plasma physics</p>
-</article>
-<article>
-    <a href="https://drive.google.com/file/d/1-SpfV-yjKdTq9Jh6438UKgu77mMWF-7E/view" class="image"><img src="./TREND REU Program - Media Projects_files/kim2025.webp" alt=""></a>
-    <h4>Jin Young Kim (GRAD-MAP participant)</h4>
-    <p>Comic on galaxy magnetic fields</p>
-</article>
-<article>
-    <a href="https://drive.google.com/file/d/1V19sE2NIrVTl13ZhivcsklHKZIYnCIlC/view" class="image"><img src="./TREND REU Program - Media Projects_files/liu2025.webp" alt=""></a>
-    <h4>Derek Liu (Dutt)</h4>
-    <p>Comic on photonicsg</p>
-</article>
-<article>
-    <a href="https://drive.google.com/file/d/1cbfZPUlegFcrZ9kA8RWrZbQA9errtVgI/view" class="image"><img src="./TREND REU Program - Media Projects_files/obrero2024.webp" alt=""></a>
-    <h4>Caitlyn Obrero (Murphy)</h4>
-    <p>Comic on photon detection</p>
-</article>
-<article>
-    <a href="https://drive.google.com/file/d/1oywUvsLydiUtUnQLqUw_0zVWW1Gefygf/view" class="image"><img src="./TREND REU Program - Media Projects_files/madarasinghe2025.webp" alt=""></a>
-    <h4> Ridmi Madarasinghe (GRAD-MAP participant)</h4>
-    <p>Comic on universe history</p>
-</article>
-<article>
-    <a href="https://drive.google.com/file/d/1CzCLZ7_XTu-T7HSsindfzksu_VtfGQbz/view" class="image"><img src="./TREND REU Program - Media Projects_files/qian2025.webp" alt=""></a>
-    <h4>Grace Qian (Drake, Swisdak)</h4>
-    <p>Comic on magnetic reconnection</p>
-</article>							
-</div>
-    
-<h2 id="2024">2024</h2><p><a href="https://trend.umd.edu/media.html#top">Top</a></p>
-    <div class="posts">
-        <article>
-            <a href="https://drive.google.com/file/d/1gpzaGp5GIGc8Wht_kHPr8YD5YplpbHCx/view" class="image"><img src="./TREND REU Program - Media Projects_files/dewland2024.webp" alt=""></a>
-            <h4>Alesya Dewland (Dutt, Ríos Ocampo)</h4>
-            <p>Comic on photonic devices</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1bqvKMf6mzhjpsYnBpdIHz8AcgAftKrx2/view" class="image"><img src="./TREND REU Program - Media Projects_files/gupta2024.webp" alt=""></a>
-            <h4>Sanya Gupta (Drake, Swisdak)</h4>
-            <p>Comic on magnetic reconnection</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1bviNoW1c6J0Gcx61ZjvAkxwWYi3jCHkG/view" class="image"><img src="./TREND REU Program - Media Projects_files/gurney2024.webp" alt=""></a>
-            <h4>Grennon Gurney (Antonsen, Girvan, Ott)</h4>
-            <p>Comic on chaos prediction</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1ci8mDMLrkABHOKPOuLOtfLvUrwtQLxqd/view" class="image"><img src="./TREND REU Program - Media Projects_files/kelly2024.webp" alt=""></a>
-            <h4>Clayton Kelly (Kuan, Trivisa)</h4>
-            <p>Comic on bird flocking</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1cbfZPUlegFcrZ9kA8RWrZbQA9errtVgI/view" class="image"><img src="./TREND REU Program - Media Projects_files/obrero2024.webp" alt=""></a>
-            <h4>Caitlyn Obrero (Murphy)</h4>
-            <p>Comic on photon detection</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1cWgfidDxlKVi-lb4EbIVNqfz-NhIzJhc/view" class="image"><img src="./TREND REU Program - Media Projects_files/redondo2024.webp" alt=""></a>
-            <h4>Fermin Redondo (Drake, Swisdak)</h4>
-            <p>Comic on the heliosphere (Best Media Project 2024)</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1cYbSiRGkf1UQ3NyFx6zMHUDt_ysK-2Sg/view" class="image"><img src="./TREND REU Program - Media Projects_files/sheldon2024.webp" alt=""></a>
-            <h4>Evan Sheldon (Ochoa)</h4>
-            <p>Comic on quantum simulations</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1c6HjaRTlkh9fqjMh_9H-voPN1m5QAODT/view" class="image"><img src="./TREND REU Program - Media Projects_files/slattery2024.webp" alt=""></a>
-            <h4>Ella Slattery (Lathrop)</h4>
-            <p>Comic on asteroid 16 Psyche</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1c1Cz6Ie5Vz-Yg9GKrKKaWv2s4_-SYZhE/view" class="image"><img src="./TREND REU Program - Media Projects_files/valles2024.webp" alt=""></a>
-            <h4>Cheyenne Valles (Beaudoin, Horimbere)</h4>
-            <p>Comic on plasma modeling</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1c2Ayma8vJnOkOVYp7rWG1iSIY1f2z0IO/view" class="image"><img src="./TREND REU Program - Media Projects_files/villegas2024.webp" alt=""></a>
-            <h4>Kevin Villegas (Lathrop)</h4>
-            <p>Comic on particle velocimetry</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1cIgt-yP8jS7SSwnziPuei4W_KMl7g5pL/view" class="image"><img src="./TREND REU Program - Media Projects_files/yang2024.webp" alt=""></a>
-            <h4>Irene Yang (Paley)</h4>
-            <p>Comic on fish swimming</p>
-        </article>							
-    </div>
-    
-<h2 id="2023">2023</h2><p><a href="https://trend.umd.edu/media.html#top">Top</a></p>
-    <div class="posts">
-        <article>
-            <a href="https://drive.google.com/file/d/1BJTP0uHAqMXBjHrdjyBO56MleiKwsaeO/view" class="image"><img src="./TREND REU Program - Media Projects_files/amzalag2023.webp" alt=""></a>
-            <h4>Dael Amzalag (Antonsen, Girvan)</h4>
-            <p>Comic on reservoir computing</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/190MYlpbmtBWIJnemsyD9clxMYBT3Q307/view" class="image"><img src="./TREND REU Program - Media Projects_files/espinola2023.webp" alt=""></a>
-            <h4>Daniel Espinola (Beaudoin, Romero Talamas)</h4>
-            <p>Comic on plasma diagnostics</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1ArqiGSqgj4eV2ogz5mN2rYkxUocUW5ps/view" class="image"><img src="./TREND REU Program - Media Projects_files/gershengorn2023.webp" alt=""></a>
-            <h4>Nathan Gershengorn (Chembo, Murphy, Roy)</h4>
-            <p>Comic on quantum optoelectronics</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/18qENxcNe8gqtwYeFP-AoCVagsqcExS8d/view" class="image"><img src="./TREND REU Program - Media Projects_files/jackson2023.webp" alt=""></a>
-            <h4>Dayna Jackson (Paley)</h4>
-            <p>Comic on fish communication models</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/192uflugVEGJgQRchPvZwWikiWnUP7bTN/view" class="image"><img src="./TREND REU Program - Media Projects_files/kipiller2023.webp" alt=""></a>
-            <h4>Joshua Kipiller (Drake, Swisdak)</h4>
-            <p>Comic on the heliosphere</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/193GQATSqkeuAObaU6qoltQmwlW0g1Gs3/view" class="image"><img src="./TREND REU Program - Media Projects_files/mackenzie2023.webp" alt=""></a>
-            <h4>Miles MacKenzie (Dutt, Ríos Ocampo)</h4>
-            <p>Comic on photon waveguides</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/18vgq5vyWeu5B1DTXqamJ_zc6woQW58ew/view" class="image"><img src="./TREND REU Program - Media Projects_files/mahaffey2023.webp" alt=""></a>
-            <h4>Theo Mahaffey (Ochoa)</h4>
-            <p>Comic on quantum simulations</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/18_5kqcxApP8MbDae1KkvGppslUUYfR6t/view" class="image"><img src="./TREND REU Program - Media Projects_files/nicastro2023.webp" alt=""></a>
-            <h4>Ariel Nicastro (Losert)</h4>
-            <p>Comic on acoustic forcing</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1AxuZwABl1zIHoDwxSoeYLheARNjQz7k_/view" class="image"><img src="./TREND REU Program - Media Projects_files/patel2023.webp" alt=""></a>
-            <h4>Krish Patel (Sprangle)</h4>
-            <p>Comic on lasers</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/19oDpwgt3JAGP8hcbjpQXyjVHRgZMWQ3g/view" class="image"><img src="./TREND REU Program - Media Projects_files/trotter2023.webp" alt=""></a>
-            <h4>Brandon Trotter (Daniels)</h4>
-            <p>Comic on COVID testing</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/18sxg-CQ22gdMTXThP_CxKkDzT6aBxUxn/view" class="image"><img src="./TREND REU Program - Media Projects_files/vitola2023.webp" alt=""></a>
-            <h4>Sabina Vitola (Losert)</h4>
-            <p>Comic on brain cell modeling</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/18ZcvR6p6v2xBbLV5DPC_hvgZD_mzSPx6/view" class="image"><img src="./TREND REU Program - Media Projects_files/xia2023.webp" alt=""></a>
-            <h4>Luke Xia (Drake, Swisdak)</h4>
-            <p>Comic on plasma reconnection modeling (Best Media Project 2023)</p>
-        </article>								
-    </div>
-
-<hr class="major">
-    
-<h2 id="2022">2022</h2><a href="https://trend.umd.edu/media.html#top">Top</a><p></p>
-    <div class="posts">
-        <article>
-            <a href="https://drive.google.com/file/d/1WXx0N88sbbJskFHC_sVnJScaC1-VPt9K/view" class="image"><img src="./TREND REU Program - Media Projects_files/bussio2022.webp" alt=""></a>
-            <h4>Ariana Bussio (Beaudoin)</h4>
-            <p>Comic on ion traps</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1WqoVFG6O2pfU3LSmUcYiIuArETCcfF3A/view" class="image"><img src="./TREND REU Program - Media Projects_files/earnest2022.webp" alt=""></a>
-            <h4>Sara Earnest (Lathrop)</h4>
-            <p>Comic on rock shape evolution modeling</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1VdfSKA3lnAypK3F23pLDppj0Bu5w3AAP/view" class="image"><img src="./TREND REU Program - Media Projects_files/hewson2022.webp" alt=""></a>
-            <h4>Connor Hewson (Sprangle)</h4>
-            <p>Comic on lasers</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1W20_gq81yUR4LGTBT2GcQIVizlZbawAF/view" class="image"><img src="./TREND REU Program - Media Projects_files/jacksonbartholomew2022.webp" alt=""></a>
-            <h4>Autumn Jackson Bartholomew (Horimbere, Romero Talamas)</h4>
-            <p>Comic on plasma fusion safety</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1Vnl7cL6_ZQJraPS7U2N4ZIklVMbLn7JY/view" class="image"><img src="./TREND REU Program - Media Projects_files/jeffries2022.webp" alt=""></a>
-            <h4>Jacob Jeffries (Antonsen, Girvan)</h4>
-            <p>Comic on reservoir computing</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1Vc_IPvlRUxMP2PumjXtuSHER8ZTz9ylb/view" class="image"><img src="./TREND REU Program - Media Projects_files/jiang2022.webp" alt=""></a>
-            <h4>Jessica Jiang (Ochoa)</h4>
-            <p>Comic on quantum Coulomb blockade</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1XSFVMyIZscmd2PL39Pe5eM50nIocrCfA/view" class="image"><img src="./TREND REU Program - Media Projects_files/khan2022.webp" alt=""></a>
-            <h4>Aimen Khan (Daniels)</h4>
-            <p>Comic on 2D gas sensors</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1Wa5dg5n9MdT_61F0tIAeeLggqRZ8hKGr/view" class="image"><img src="./TREND REU Program - Media Projects_files/lucini2022.webp" alt=""></a>
-            <h4>Amanda Lucini (Chembo, Murphy, Roy)</h4>
-            <p>Comic on optoelectronics</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1Wts4mqmp8vkWXgNUS21xNxmq9PPkecxw/view" class="image"><img src="./TREND REU Program - Media Projects_files/marrufo2022.webp" alt=""></a>
-            <h4>Marco Marrufo (Chembo, Murphy, Roy)</h4>
-            <p>Comic on stability analysis</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1Vpnu19VH4ehLoNvcL6RFSVV2J88sokM6/view" class="image"><img src="./TREND REU Program - Media Projects_files/vanhoever2022.webp" alt=""></a>
-            <h4>Lucas Vanhoever (Drake, Swisdak)</h4>
-            <p>Comic on plasma dynamics (Best Media Project 2022)</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1XV7VfaRpNp5CM3AXf1zfmE_k0Hzf3b5_/view" class="image"><img src="./TREND REU Program - Media Projects_files/widman2022.webp" alt=""></a>
-            <h4>Chloe Widman (Losert)</h4>
-            <p>Comic on microscopic cell stimulation</p>
-        </article>							
-    </div>
-
-<hr class="major">
-
-<h2 id="2021">2021</h2><a href="https://trend.umd.edu/media.html#top">Top</a><p></p>
-    <div class="posts">
-        <article>
-            <a href="https://drive.google.com/file/d/10Ca58G8de1mip7jNqllVNaX8b31cBGVN/view" class="image"><img src="./TREND REU Program - Media Projects_files/alex2021.webp" alt=""></a>
-            <h4>Daniel Alex (Horimbere, Landreman)</h4>
-            <p>Comic on stellarators</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/10Fh_GKjX5IakgabVi-MgnJnF_CMZq0UG/view" class="image"><img src="./TREND REU Program - Media Projects_files/argyle2021.webp" alt=""></a>
-            <h4>Paul Argyle (Sprangle)</h4>
-            <p>Comic on masers</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/10I7NKgvDdMlSirZewrve55Zzqd3zvcSf/view" class="image"><img src="./TREND REU Program - Media Projects_files/canuelas2021.webp" alt=""></a>
-            <h4>Leela Cañuelas (Paley)</h4>
-            <p>Comic on robot fish control</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/10BRYaMiMpAkmxfJy0fRV-nbdohGzlNT1/view" class="image"><img src="./TREND REU Program - Media Projects_files/fischer2021.webp" alt=""></a>
-            <h4>Darrell Fischer (Losert)</h4>
-            <p>Comic on gut dynamics</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/11pLi-Geiur0SlkTZDcJch9Z8gMxA57ek/view" class="image"><img src="./TREND REU Program - Media Projects_files/gallmeier2021.webp" alt=""></a>
-            <h4>Esther Gallmeier (Chembo, Murphy, Roy)</h4>
-            <p>Comic on optoelectronics</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/10UgRGB71E50RRLyfOaODV8pJUKBvTOvK/view" class="image"><img src="./TREND REU Program - Media Projects_files/haravu2021.webp" alt=""></a>
-            <h4>Shriya Haravu (Ochoa)</h4>
-            <p>Comic on quantum transport</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/11LX7bpVDu9zve3hXKjJC6fAUyyUTjqix/view" class="image"><img src="./TREND REU Program - Media Projects_files/heussen2021.webp" alt=""></a>
-            <h4>Zahra Heussen (Lathrop)</h4>
-            <p>Comic on the research process</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/10NpsWFmlk4TZNyQHDZnznr5fFF98fsZZ/view" class="image"><img src="./TREND REU Program - Media Projects_files/jane2021.webp" alt=""></a>
-            <h4>Ivan Jane (Horimbere, Swisdak)</h4>
-            <p>Comic on plasma reconnection (Best Media Project 2021)</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/10ILVZfQRe8Sah7Jvv2bekB8Egvo58tnp/view" class="image"><img src="./TREND REU Program - Media Projects_files/matava2021.webp" alt=""></a>
-            <h4>William Matava (Beaudoin)</h4>
-            <p>Comic on linear accelerators</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/11nOy7SxWITJKhPq87jpuc1qw0lKTpXV0/view" class="image"><img src="./TREND REU Program - Media Projects_files/rivers2021.webp" alt=""></a>
-            <h4>Kendra Rivers (Daniels)</h4>
-            <p>Comic on 2D gas sensors</p>
-        </article>							
-    </div>
-
-<hr class="major">
-
-<h2 id="2020">2020</h2><a href="https://trend.umd.edu/media.html#top">Top</a><p></p>
-    <div class="posts">
-        <article>
-            <a href="https://www.terpconnect.umd.edu/~dsvolpe/TREND/2020/Media/Blair/Gavin%20Blair%20-%20Media%20Project%20Final%20Draft.pdf" class="image"><img src="./TREND REU Program - Media Projects_files/blair2020.webp" alt=""></a>
-            <h4>Gavin Blair (Sprangle)</h4>
-            <p>Infographic on lasers</p>
-        </article>
-        <article>
-            <a href="https://nbviewer.org/github/jblue1/TRENDMediaProject/blob/master/PendulumNB.ipynb" class="image"><img src="./TREND REU Program - Media Projects_files/blue2020.webp" alt=""></a>
-            <h4>John Blue (Lathrop)</h4>
-            <p>Website on pendulum dynamics</p>
-        </article>
-        <article>
-            <a href="https://www.youtube.com/watch?v=MRZgsIZ3G7I" class="image"><img src="./TREND REU Program - Media Projects_files/brann2020.webp" alt=""></a>
-            <h4>Emma Bran (Wilson)</h4>
-            <p>Video on epidemiology modeling</p>
-        </article>
-        <article>
-            <a href="https://www.youtube.com/watch?v=MkiW9V25HwQ" class="image"><img src="./TREND REU Program - Media Projects_files/courtright2020.webp" alt=""></a>
-            <h4>Gavin Courtright (Daniels)</h4>
-            <p>Video on 2D materials for gas sensing</p>
-        </article>
-        <article>
-            <a href="https://www.terpconnect.umd.edu/~dsvolpe/TREND/2020/Media/Harvey/Joseph%20Harvey%20-%20media%20project%20trend_noQR.pdf" class="image"><img src="./TREND REU Program - Media Projects_files/harvey2020.webp" alt=""></a>
-            <h4>Joseph Harvey (Antonsen, Girvan, Ott)</h4>
-            <p>Poster on reservoir computing</p>
-        </article>
-        <article>
-            <a href="https://sites.google.com/view/trendjacobo2020/home" class="image"><img src="./TREND REU Program - Media Projects_files/jacobo2020.webp" alt=""></a>
-            <h4>Mary Flor Jacobo (Horimbere, Lathrop)</h4>
-            <p>Art project on fluid vortices</p>
-        </article>
-        <article>
-            <a href="https://www.terpconnect.umd.edu/~dsvolpe/TREND/2020/Media/Kissling/Melissa%20Kissling%20-%20Melissa%20Kissling-%20Final%20MP.pdf" class="image"><img src="./TREND REU Program - Media Projects_files/kissling2020.webp" alt=""></a>
-            <h4>Melissa Kissling (Losert)</h4>
-            <p>Poster on focal adhesions</p>
-        </article>
-        <article>
-            <a href="https://www.terpconnect.umd.edu/~dsvolpe/TREND/2020/Media/Riggins/Ari%20Riggins%20-%20MCMC%20%5bRecovered%5d.pdf" class="image"><img src="./TREND REU Program - Media Projects_files/riggins2020.webp" alt=""></a>
-            <h4>Ari Riggins (Paley)</h4>
-            <p>Poster on complex applied statistics</p>
-        </article>
-        <article>
-            <a href="https://www.terpconnect.umd.edu/~dsvolpe/TREND/2020/Media/Rodriguez/Ambar%20Rodriguez_Webpage.html" class="image"><img src="./TREND REU Program - Media Projects_files/rodriguezalicea2020.webp" alt=""></a>
-            <h4>Ambar Rodríguez Alicea (Beaudoin)</h4>
-            <p>Website on AI for particle accelerators</p>
-        </article>
-        <article>
-            <a href="https://www.youtube.com/watch?v=RQugL0oNMxU" class="image"><img src="./TREND REU Program - Media Projects_files/russell2020.webp" alt=""></a>
-            <h4>Chelsea Russel (Antonsen, Girvan, Ott)</h4>
-            <p>Podcast on reservoir computing (Best Media Project 2020)</p>
-        </article>							
-    </div>
-
-<hr class="major">
-
-<h2 id="2019">2019</h2><a href="https://trend.umd.edu/media.html#top">Top</a><p></p>
-    <div class="posts">
-        <article>
-            <a href="https://www.terpconnect.umd.edu/~dsvolpe/TREND/2019/Media/Chang/convection.html" class="image"><img src="./TREND REU Program - Media Projects_files/chang2019.webp" alt=""></a>
-            <h4>Sarah Chang (Lathrop)</h4>
-            <p>Website on convection</p>
-        </article>
-        <article>
-            <a href="https://www.terpconnect.umd.edu/~dsvolpe/TREND/2019/Media/CobleHamlin/2%20-%20Coble%20and%20Hamlin.html" class="image"><img src="./TREND REU Program - Media Projects_files/coble-hamlin2019.webp" alt=""></a>
-            <h4>Nolan Coble and Joy Hamlin (Antonsen, Girvan, Ott)</h4>
-            <p>Interactive diagram on reservoir computers (Best Media Project 2019)</p>
-        </article>
-        <article>
-            <a href="https://prezi.com/view/BDrKTN7dQijEiDpPlkjg/" class="image"><img src="./TREND REU Program - Media Projects_files/head2019.webp" alt=""></a>
-            <h4>Laramy Head (Losert)</h4>
-            <p>Prezi on electricity-guided cell movement</p>
-        </article>
-        <article>
-            <a href="https://www.terpconnect.umd.edu/~dsvolpe/TREND/2019/Media/JinSpeer/4%20-%20Jin%20and%20Speer.html" class="image"><img src="./TREND REU Program - Media Projects_files/jin-speer2019.webp" alt=""></a>
-            <h4>David Jin and Juan Pablo Speer (Chembo, Murphy, Roy)</h4>
-            <p>Interactive diagram on optoelectronic oscillators</p>
-        </article>
-        <article>
-            <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2019/Media/Maheshwari/MPMaheshwari.pdf" class="image"><img src="./TREND REU Program - Media Projects_files/maheshwari2019.webp" alt=""></a>
-            <h4>Kush Maheshwari (Drake, Swisdak)</h4>
-            <p>Poster on whistler waves</p>
-        </article>
-        <article>
-            <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2019/Media/Slover/Slover.gif" class="image"><img src="./TREND REU Program - Media Projects_files/slover2019.webp" alt=""></a>
-            <h4>Rachel Slover (Paley)</h4>
-            <p>Animated poster on bioinspired robots</p>
-        </article>
-        <article>
-            <a href="https://www.terpconnect.umd.edu/~dsvolpe/TREND/2019/Media/VanBeveren/7%20-%20Van%20Beveren.html" class="image"><img src="./TREND REU Program - Media Projects_files/vanbeveren2019.webp" alt=""></a>
-            <h4>Daniel Van Beveren (Lathrop)</h4>
-            <p>Interactive diagram on vortices</p>
-        </article>							
-    </div>
-
-<hr class="major">
-
-<h2 id="2018">2018</h2><a href="https://trend.umd.edu/media.html#top">Top</a><p></p>
-    <div class="posts">
-        <article>
-            <a href="https://www.youtube.com/watch?v=oy-QxsAIMMw" class="image"><img src="./TREND REU Program - Media Projects_files/belay2018.webp" alt=""></a>
-            <h4>Viktor Belay (Losert)</h4>
-            <p>Video on cell motility studies</p>
-        </article>
-        <article>
-            <a href="https://www.youtube.com/watch?v=TR1HD5f5BvI" class="image"><img src="./TREND REU Program - Media Projects_files/belkin-ritchie2018.webp" alt=""></a>
-            <h4>Daniel Belkin and Kyle Ritchie (Drake, Swisdak)</h4>
-            <p>Animated diagram on pendulums</p>
-        </article>
-        <article>
-            <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2018/Media/Christian/Christian.pdf" class="image"><img src="./TREND REU Program - Media Projects_files/christian2018.webp" alt=""></a>
-            <h4>Jessica Christian (Hafezi)</h4>
-            <p>Poster on light polarization</p>
-        </article>
-        <article>
-            <a href="https://www.youtube.com/watch?v=R8V0RI4GSZ8" class="image"><img src="./TREND REU Program - Media Projects_files/davidsonbajandas2018.webp" alt=""></a>
-            <h4>Tatiana Davidson Bajandas (Murphy, Roy)</h4>
-            <p>Video on reservoir computing</p>
-        </article>
-        <article>
-            <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2018/Media/Fines-Kested/MPFines-Kested.pdf" class="image"><img src="./TREND REU Program - Media Projects_files/fineskested2018.webp" alt=""></a>
-            <h4>William Fines-Kested (Lathrop)</h4>
-            <p>Diagram on reservoir computing</p>
-        </article>
-        <article>
-            <a href="https://www.terpconnect.umd.edu/~dsvolpe/TREND/2018/Media/Hamilton/2021/Kathleen%20Hamilton%20-%20SyncingUpWithSynchrotronsSimple.html" class="image"><img src="./TREND REU Program - Media Projects_files/hamilton2018.webp" alt=""></a>
-            <h4>Kathleen Hamilton (Beaudoin)</h4>
-            <p>Interactive diagram on electron rings</p>
-        </article>
-        <article>
-            <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2018/Media/OrtizTavarezandRuben/MPOrtizTavarezandRuben/oscillators.html" class="image"><img src="./TREND REU Program - Media Projects_files/ortiztavarez-ruben2018.webp" alt=""></a>
-            <h4>José Ortiz Tavárez and Ben Ruben (Antonsen, Girvan, Ott)</h4>
-            <p>Website on oscillators (Best Media Project 2018)</p>
-        </article>
-        <article>
-            <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2018/Media/Santana/MPSantana.gif" class="image"><img src="./TREND REU Program - Media Projects_files/santana2018.webp" alt=""></a>
-            <h4>Shyline Santana (Paley)</h4>
-            <p>Animated poster on underwater robots</p>
-        </article>
-        <article>
-            <a href="https://ethanvw.blogspot.com/2018/07/science-series-part-i-nonlinear-and.html" class="image"><img src="./TREND REU Program - Media Projects_files/vanwoerkom2018.webp" alt=""></a>
-            <h4>Ethan van Woerkom (Murphy, Roy)</h4>
-            <p>Blog on synchronization in chaotic networks</p>
-        </article>
-        <article>
-            <a href="https://www.youtube.com/watch?v=64cpuuqDqXM" class="image"><img src="./TREND REU Program - Media Projects_files/yoest2018.webp" alt=""></a>
-            <h4>Helena Yoest (Lathrop)</h4>
-            <p>Video on electrical discharges</p>
-        </article>							
-    </div>
-
-<hr class="major">
-
-<h2 id="2017">2017</h2><a href="https://trend.umd.edu/media.html#top">Top</a><p></p>
-    <div class="posts">
-        <article>
-            <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2017/Multimedia/Betz/Betz_Multimedia_Final.pdf" class="image"><img src="./TREND REU Program - Media Projects_files/betz2017.webp" alt=""></a>
-            <h4>Joseph Betz (Beaudoin)</h4>
-            <p>Diagram on the Standard Model</p>
-        </article>
-        <article>
-            <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2017/Multimedia/Eiskowitz/EiskowitzMMP.gif" class="image"><img src="./TREND REU Program - Media Projects_files/eiskowitz2017.webp" alt=""></a>
-            <h4>Skylar Eiskowitz (Lathrop)</h4>
-            <p>Animated poster on the Hall effect</p>
-        </article>
-        <article>
-            <a href="https://www.youtube.com/watch?v=XZBt-cQiDt4" class="image"><img src="./TREND REU Program - Media Projects_files/fussel-wikner2017.webp" alt=""></a>
-            <h4>Rebeckah Fussel and Alex Wikner (Antonsen, Girvan, Ott)</h4>
-            <p>Video on neural networks (Best Media Project 2017)</p>
-        </article>
-        <article>
-            <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2017/Multimedia/Melkerson/Melkerson%20Multimedia.html" class="image"><img src="./TREND REU Program - Media Projects_files/melkerson2017.webp" alt=""></a>
-            <h4>Rebecca Melkerson</h4>
-            <p>Interactive diagram on magnetic reconnection</p>
-        </article>
-        <article>
-            <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2017/Multimedia/SlaughterStorer/SlaughterStorerMMP.gif" class="image"><img src="./TREND REU Program - Media Projects_files/slaughter-storer2017.webp" alt=""></a>
-            <h4>Charlotte Slaughter and Dara Storer (Losert)</h4>
-            <p>Animated poster on the Brazil nut effect</p>
-        </article>
-        <article>
-            <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2017/Multimedia/Stauffer/StaufferMMP.gif" class="image"><img src="./TREND REU Program - Media Projects_files/stauffer2017.webp" alt=""></a>
-            <h4>Elieen Stauffer (Montgomery)</h4>
-            <p>Comic on the photoelectric effect</p>
-        </article>
-        <article>
-            <a href="https://www.youtube.com/watch?v=2uEs_w19NCM" class="image"><img src="./TREND REU Program - Media Projects_files/super2017.webp" alt=""></a>
-            <h4>Nathan Super (Murphy, Roy)</h4>
-            <p>Video on avalanches and granular flow</p>
-        </article>
-        <article>
-            <a href="https://www.youtube.com/watch?v=j8MFX3f2NkI" class="image"><img src="./TREND REU Program - Media Projects_files/thackray2017.webp" alt=""></a>
-            <h4>Emma Thackray (Paley)</h4>
-            <p>Video on ocean flows</p>
-        </article>
-        <article>
-            <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2017/Multimedia/Warner/MMPWarner.pdf" class="image"><img src="./TREND REU Program - Media Projects_files/warner2017.webp" alt=""></a>
-            <h4>Hana Warner (Hafezi)</h4>
-            <p>Diagram on time lensing</p>
-        </article>							
-    </div>
-
-<hr class="major">
-
-<h2 id="2016">2016</h2><a href="https://trend.umd.edu/media.html#top">Top</a><p></p>
-    <div class="posts">
-        <article>
-            <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2016/Multimedia/Crain,%20Kim%20and%20Hathcock,%20David/CrainHathcock_MMProj/" class="image"><img src="./TREND REU Program - Media Projects_files/crain-hathcock2016.webp" alt=""></a>
-            <h4>Kimberly Crain and David Hathcock (Antonsen, Girvan, Ott)</h4>
-            <p>Website on neuronal network modeling</p>
-        </article>
-        <article>
-            <a href="https://nbviewer.org/github/cyanophycean314/noisechaos_multimedia/blob/master/noisechaos.ipynb" class="image"><img src="./TREND REU Program - Media Projects_files/fei2016.webp" alt=""></a>
-            <h4>Kevin Fei (Murphy, Roy)</h4>
-            <p>Website on noise and chaos</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1ftxNd-dGNjY55lKnQTWmYZYuJOl2MOuI/view?usp=sharing" class="image"><img src="./TREND REU Program - Media Projects_files/gowen2016.webp" alt=""></a>
-            <h4>Savannah Gowen (Lathrop)</h4>
-            <p>Animated poster on acoustic waves (Best Media Project 2016)</p>
-        </article>
-        <article>
-            <a href="https://bruphysikus.wordpress.com/the-tale-of-the-swarm-particle/" class="image"><img src="./TREND REU Program - Media Projects_files/gruey2016.webp" alt=""></a>
-            <h4>Ben Gruey (Beaudoin)</h4>
-            <p>Fiction work on particle swarm optimization</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1WhT-D6SgqqSy1W8JchF_FavL1e1vPIFc/view?usp=sharing" class="image"><img src="./TREND REU Program - Media Projects_files/hanley2016.webp" alt=""></a>
-            <h4>Treacy Hanley (Hafezi)</h4>
-            <p>Animated poster on mathematical topology</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1WrIk2jqhHCiqprYXBL6nkVke8P4tq3fU/view?usp=sharing" class="image"><img src="./TREND REU Program - Media Projects_files/hartke2016.webp" alt=""></a>
-            <h4>Thomas Hartke (Drake, Swisdak)</h4>
-            <p>Interactive PDF on magnetic reconnection</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1T68R0pxteGg8myvgiUfaXXW2REQ0EU21/view?usp=sharing" class="image"><img src="./TREND REU Program - Media Projects_files/horimbere2016.webp" alt=""></a>
-            <h4>Landry Horimbere (Lathrop)</h4>
-            <p>Animated poster on plasmas</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1p90cbQGlNVIF1v54C4Ny6DDkB_89pNZB/view?usp=sharing" class="image"><img src="./TREND REU Program - Media Projects_files/mosher2016.webp" alt=""></a>
-            <h4>Molly Mosher (Losert)</h4>
-            <p>Animated diagram on cell migration</p>
-        </article>
-        <article>
-            <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2016/Multimedia/Richoux,%20Claudia/LHC%20&amp;%20UMER.htm" class="image"><img src="./TREND REU Program - Media Projects_files/richoux2016.webp" alt=""></a>
-            <h4>Claudia Richoux (Beaudoin)</h4>
-            <p>Website on particle accelerators</p>
-        </article>							
-    </div>
-
-<hr class="major">
-
-<h2 id="2015">2015</h2><a href="https://trend.umd.edu/media.html#top">Top</a><p></p>
-    <div class="posts">
-        <article>
-            <a href="https://www.youtube.com/watch?v=wlZZVXQu9sA" class="image"><img src="./TREND REU Program - Media Projects_files/babock2015.webp" alt=""></a>
-            <h4>Alisa Babock (Hafezi)</h4>
-            <p>Video on quantum optics</p>
-        </article>
-        <article>
-            <a href="https://www.youtube.com/watch?v=FE9f6NTSg8U" class="image"><img src="./TREND REU Program - Media Projects_files/boros2015.webp" alt=""></a>
-            <h4>Remi Boros (Lathrop)</h4>
-            <p>Video on quantum vortices</p>
-        </article>
-        <article>
-            <a href="https://www.youtube.com/watch?v=iCh41xhiPgw" class="image"><img src="./TREND REU Program - Media Projects_files/cooper-powers2015.webp" alt=""></a>
-            <h4>Eric Cooper and Dylan Powers (Losert)</h4>
-            <p>Video on granular dynamics</p>
-        </article>
-        <article>
-            <a href="https://www.youtube.com/watch?v=EM1H10LwemY" class="image"><img src="./TREND REU Program - Media Projects_files/davis2015.webp" alt=""></a>
-            <h4>Amy Davis (Paley)</h4>
-            <p>Video on the circle problem for underwater robotics</p>
-        </article>
-        <article>
-            <a href="https://drive.google.com/file/d/1iBO2DQiuP14V0NuHQ-DrA4O6Nutzkeh1/view?usp=sharing" class="image"><img src="./TREND REU Program - Media Projects_files/fritz2015.webp" alt=""></a>
-            <h4>Christopher Fritz (Murphy, Roy)</h4>
-            <p>Article on synchronization</p>
-        </article>
-        <article>
-            <a href="https://www.youtube.com/watch?v=hiSqWbHwCqA" class="image"><img src="./TREND REU Program - Media Projects_files/mcgreivy2015.webp" alt=""></a>
-            <h4>Nick McGreivy (Drake, Swisdak)</h4>
-            <p>Video on solar flares</p>
-        </article>
-        <article>
-            <a href="https://www.youtube.com/watch?v=54ySANUGohs" class="image"><img src="./TREND REU Program - Media Projects_files/tripepi2015.webp" alt=""></a>
-            <h4>Michael Tripepi (Montgomery)</h4>
-            <p>Video on photocathodes</p>
-        </article>					
-    </div>
-
-The UMD/NIST PML fellows program is formally know as the NIST Nanoscale Science and Technology Postdoctoral and Visiting Senior Fellowship Program.
-
-The program ws funded by a cooperative agreement between the NIST PML (Physical Measurement Laboratory) and UMD's IREAP, and supported research projects within various nanoscience measurement topics.
-
-Researchers at all levels were hired at UMD's IREAP to work at NIST PML in Gaithersburg, MD with mentorship from a project leader from either the Microsystems and Nanotechnology Division or the Nanoscale Device Characterization Division.
-
-Fellows published and presented at professional conferences while receiving personalized professional development mentorship as part of the program. Alumni went on to positions in academia, government labs, and industry.
-
-The program existed from 2006 to 2020, starting under the leadership of Ellen Williams, and has served 170 fellows to date.
-I was Scientific Coordinator of the program from 2014 to 2020 (adding co-PI role in 2019).
-
-Associated grants:
-NIST UMD Cooperative agreement - Dan Lathrop PI, Daniel Serrano co-PI, dollar amount
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<h2 id="2025" class="mt-5">2025 <a href="#top" style="font-size:0.8em;">Top</a></h2>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1l8Cpi-CGIt16bGdySn02c7OaINEZEhJs/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/bielawski2025.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Luke Bielawski</b> - Comic on bacteria flocking
   </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/199UPrqwr325wbaplXNVce56Fq9CMNjfP/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/gonzalez2025.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Christian Gonzalez</b> - Comic on plasma physics
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1EyuM09y7YUzcjdESoa2d3DH8brI-W_CZ/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/kim2025.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Jin Young Kim</b> - Comic on galaxy magnetic fields
   </div>
 </div>
-```
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1QPCTyLtkLkl4XcXaI3J82L97ymKx0gwD/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/liu2025.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Derek Liu</b> - Comic on photonics
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1VQC_OJsGW93Ii9LouyW5sT7CjiFsvzSP/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/obrero2024.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Caitlyn Obrero</b> - Comic on photon detection
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/10h0MtGG3vZphhp-hW8YR3NFkYmBy0KFm/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/madarasinghe2025.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Ridmi Madarasinghe</b> - Comic on universe history
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1KH7ZlcxUbHkExNr_T_bVRoV63p5Oyw_Z/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/qian2025.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Grace Qian</b> - Comic on magnetic reconnection
+  </div>
+</div>
+<hr class="my-5">
 
-{% endraw %}
+<h2 id="2024" class="mt-5">2024 <a href="#top" style="font-size:0.8em;">Top</a></h2>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1THBFr8tHJD0GMTYGLCPe5QCdlJlB4lR1/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/dewland2024.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Alesya Dewland</b> - Comic on photonic devices
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1iSzG_grXHpeDqCMysvsOGrrxi5sfox8f/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/gupta2024.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Sanya Gupta</b> - Comic on magnetic reconnection
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1Drnu-LI9veZnRp5_FhmxpsXxGU8hgyfR/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/gurney2024.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Grennon Gurney</b> - Comic on chaos prediction
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/16_LvXFRyyHxw26ZDRAgfsWvBjAlpymEm/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/kelly2024.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Clayton Kelly</b> - Comic on bird flocking
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1V8Vaji0NnWcBncCkXAclbchB5ybZipgW/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/obrero2024.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Caitlyn Obrero</b> - Comic on photon detection
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1WV7BF_AsU_Nj_pNaKouPjazsaXebtOni/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/redondo2024.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Fermin Redondo</b> - Comic on the heliosphere
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1QHARDIU-XME5mKKZ7vq_1jGb8X1dLMsP/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/sheldon2024.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Evan Sheldon</b> - Comic on quantum simulations
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/12uZ3CWlIXv0c5gx7UQCHh-WlPUx9apQp/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/slattery2024.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Ella Slattery</b> - Comic on asteroid 16 Psyche
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1J6Zd24q8sZmDVaFaoB5UKbwd-M25YPc9/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/valles2024.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Cheyenne Valles</b> - Comic on plasma modeling
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1fgyH757E9fzJarNyLInfASD1EkmEd73K/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/villegas2024.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Kevin Villegas</b> - Comic on particle velocimetry
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1EbJwYXz4NOBBunZZjbkbiu5_BFKVA54I/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/yang2024.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Irene Yang</b> - Comic on fish swimming
+  </div>
+</div>
+<hr class="my-5">
+
+<h2 id="2023" class="mt-5">2023 <a href="#top" style="font-size:0.8em;">Top</a></h2>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/15EhPgRcHgo8W5THIjDeorbIRAlgb4R5-/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/amzalag2023.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Dael Amzalag</b> - Comic on reservoir computing
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1jgm9eJfEHemSLCj8prop2Kg6PPomUsNc/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/espinola2023.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Daniel Espinola</b> - Comic on plasma diagnostics
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1tgrb72vB0eBVshK4gfV5gTntXhEZ7mku/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/gershengorn2023.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Nathan Gershengorn</b> - Comic on quantum optoelectronics
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1yxLz7JeXga9mZrCOsTgJjaW_UmBpuP0f/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/jackson2023.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Dayna Jackson</b> - Comic on fish communication models
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1kIK5CKG--cU-PTXHG25zTCvemJlqppDe/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/kipiller2023.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Joshua Kipiller</b> - Comic on the heliosphere
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1UOPyGwSEx4Mom0OzJcvI6Fsx43lzg-Iu/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/mackenzie2023.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Miles MacKenzie</b> - Comic on photon waveguides
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1Z8xrsAHWuM9q4G55FwHprizghUgXy79L/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/mahaffey2023.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Theo Mahaffey</b> - Comic on quantum simulations
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1sqT0gBx9vbY8GZXS04-aRxqjdLXBSDdc/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/nicastro2023.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Ariel Nicastro</b> - Comic on acoustic forcing
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1GExTlCcq_HpxTBZ9RWiIcew9tYsUR-_q/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/patel2023.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Krish Patel</b> - Comic on lasers
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1ALOikEzn-jVIBil_pVbQvElQPff-nyAx/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/trotter2023.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Brandon Trotter</b> - Comic on COVID testing
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1qroVneKSGqe-lS8g0Q2_ZuYwTWCihRiD/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/vitola2023.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Sabina Vitola</b> - Comic on brain cell modeling
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1Jf7jlc34nztquwTkIzuiy2isppmXsvVc/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/xia2023.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Luke Xia</b> - Comic on plasma reconnection modeling
+  </div>
+</div>
+<hr class="my-5">
+
+<h2 id="2022" class="mt-5">2022 <a href="#top" style="font-size:0.8em;">Top</a></h2>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1nzN5cs1EweNTCCZi7UmHlGMLyzn90xom/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/bussio2022.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Ariana Bussio</b> - Comic on ion traps
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1h_drd5j7LzvMn9eLdkka0Lm-WqDvKNYt/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/earnest2022.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Sara Earnest</b> - Comic on rock shape evolution modeling
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1Hh0-gCApW09WTD2Q94j56MWqHoC_zYQf/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/hewson2022.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Connor Hewson</b> - Comic on lasers
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/11xshk6zd7b5E0jCbfM4l_1olgvn37VmH/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/jacksonbartholomew2022.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Autumn Jackson Bartholomew</b> - Comic on plasma fusion safety
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/13DpUn-CIBz9wG8xbCYAz8oFif3Vdr4sH/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/jeffries2022.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Jacob Jeffries</b> - Comic on reservoir computing
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1h6vIDMrz_k-c4XGdDPxSTPP1HvCrZKTn/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/jiang2022.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Jessica Jiang</b> - Comic on quantum Coulomb blockade
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1LH4bstROB9RJxjJatG6T3B4TlCN-NLJE/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/khan2022.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Aimen Khan</b> - Comic on 2D gas sensors
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1IjvfJDkBOq3V5AFDW9-9pJDILp4br3hl/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/lucini2022.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Amanda Lucini</b> - Comic on optoelectronics
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1JygIiApkkWp_OortUGpBVnAigtWIlvR_/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/marrufo2022.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Marco Marrufo</b> - Comic on stability analysis
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1j2qUr8pqGuMzmGwHSyhGMhSsrzX3mW4I/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/vanhoever2022.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Lucas Vanhoever</b> - Comic on plasma dynamics
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1uGLzRAxWoE_zxV9sPxcwhd6ket5RQs7B/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/widman2022.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Chloe Widman</b> - Comic on microscopic cell stimulation
+  </div>
+</div>
+<hr class="my-5">
+
+<h2 id="2021" class="mt-5">2021 <a href="#top" style="font-size:0.8em;">Top</a></h2>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1Au_vmk4v6V2gC1-xsf3S1fmd7_Ztqq_x/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/alex2021.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Daniel Alex</b> - Comic on stellarators
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1X-fd3HF2QMWQfpzAP4a61al_CQdjMPpq/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/argyle2021.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Paul Argyle</b> - Comic on masers
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1NnJqKD4hEt7jMgB7JyP7nWY0XXkRIRQi/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/canuelas2021.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Leela Cañuelas</b> - Comic on robot fish control
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1LGiaSsNiqBLo3g70a5ztNavIRI9YjJ2D/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/fischer2021.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Darrell Fischer</b> - Comic on gut dynamics
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1DetgWPycuX5SMwYdLpzP72-cqkQaQg-Y/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/gallmeier2021.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Esther Gallmeier</b> - Comic on optoelectronics
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1rfWcwDddaf2msyYIeV2JkKNbvK1vbwjq/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/haravu2021.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Shriya Haravu</b> - Comic on quantum transport
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1yh736XopYWQwrszO4_iC609C--zhqYoB/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/heussen2021.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Zahra Heussen</b> - Comic on the research process
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1tpaXLmowDxadqAd7KMdH2Hz-XZpJggxv/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/jane2021.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Ivan Jane</b> - Comic on plasma reconnection
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1eYplKFLc-8KOJfox6QQ6I9QVS1_8Ey1L/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/matava2021.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>William Matava</b> - Comic on linear accelerators
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/13EB5A5qO5tng7fA6-dB_SgFPpAVl99ab/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/rivers2021.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Kendra Rivers</b> - Comic on 2D gas sensors
+  </div>
+</div>
+<hr class="my-5">
+
+<h2 id="2020" class="mt-5">2020 <a href="#top" style="font-size:0.8em;">Top</a></h2>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/11y0yoJ2WbXfMl1YZ9jOQH3bMLxta7mQD/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/blair2020.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Gavin Blair</b> - Infographic on lasers
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://nbviewer.org/github/jblue1/TRENDMediaProject/blob/master/PendulumNB.ipynb">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/blue2020.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>John Blue</b> - Website on pendulum dynamics
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=MRZgsIZ3G7I">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/brann2020.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Emma Bran</b> - Video on epidemiology modeling
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=MkiW9V25HwQ">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/courtright2020.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Gavin Courtright</b> - Video on 2D materials for gas sensing
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1sQR0FGCo3sCIGP5y85q6cuA8lBKPUPY1/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/harvey2020.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Joseph Harvey</b> - Poster on reservoir computing
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://sites.google.com/view/trendjacobo2020/home">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/jacobo2020.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Mary Flor Jacobo</b> - Art project on fluid vortices
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/15Y0HPYZtxztWmq8Bpzm6GlRY5Vg7Liz_/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/kissling2020.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Melissa Kissling</b> - Poster on focal adhesions
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/11RauR7SKA4cQOu7nW8KUDOB3BE9zj_WQ/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/riggins2020.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Ari Riggins</b> - Poster on complex applied statistics
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.terpconnect.umd.edu/~dsvolpe/TREND/2020/Media/Rodriguez/Ambar%20Rodriguez_Webpage.html">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/rodriguezalicea2020.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Ambar Rodríguez Alicea</b> - Website on AI for particle accelerators
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=RQugL0oNMxU">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/russell2020.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Chelsea Russel</b> - Podcast on reservoir computing
+  </div>
+</div>
+<hr class="my-5">
+
+<h2 id="2019" class="mt-5">2019 <a href="#top" style="font-size:0.8em;">Top</a></h2>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.terpconnect.umd.edu/~dsvolpe/TREND/2019/Media/Chang/convection.html">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/chang2019.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Sarah Chang</b> - Website on convection
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.terpconnect.umd.edu/~dsvolpe/TREND/2019/Media/CobleHamlin/2%20-%20Coble%20and%20Hamlin.html">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/coble-hamlin2019.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Nolan Coble and Joy Hamlin</b> - Interactive diagram on reservoir computers
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://prezi.com/view/BDrKTN7dQijEiDpPlkjg/">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/head2019.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Laramy Head</b> - Prezi on electricity-guided cell movement
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.terpconnect.umd.edu/~dsvolpe/TREND/2019/Media/JinSpeer/4%20-%20Jin%20and%20Speer.html">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/jin-speer2019.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>David Jin and Juan Pablo Speer</b> - Interactive diagram on optoelectronic oscillators
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1svf7rLEY-K5YSB_F0ajx556BMzjPacZL/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/maheshwari2019.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Kush Maheshwari</b> - Poster on whistler waves
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1gL0zIxryi09vg2-j14i5eWrZBhZ-kQXl/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/slover2019.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Rachel Slover</b> - Animated poster on bioinspired robots
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.terpconnect.umd.edu/~dsvolpe/TREND/2019/Media/VanBeveren/7%20-%20Van%20Beveren.html">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/vanbeveren2019.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Daniel Van Beveren</b> - Interactive diagram on vortices
+  </div>
+</div>
+<hr class="my-5">
+
+<h2 id="2018" class="mt-5">2018 <a href="#top" style="font-size:0.8em;">Top</a></h2>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=oy-QxsAIMMw">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/belay2018.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Viktor Belay</b> - Video on cell motility studies
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=TR1HD5f5BvI">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/belkin-ritchie2018.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Daniel Belkin and Kyle Ritchie</b> - Animated diagram on pendulums
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1v2nkck-UDXZWpStvj29e7koPOn_7ueZE/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/christian2018.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Jessica Christian</b> - Poster on light polarization
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=R8V0RI4GSZ8">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/davidsonbajandas2018.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Tatiana Davidson Bajandas</b> - Video on reservoir computing
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1rMywqLPay3kGhGiMLdBk6qM339fi_qzd/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/fineskested2018.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>William Fines-Kested</b> - Diagram on reservoir computing
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.terpconnect.umd.edu/~dsvolpe/TREND/2018/Media/Hamilton/2021/Kathleen%20Hamilton%20-%20SyncingUpWithSynchrotronsSimple.html">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/hamilton2018.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Kathleen Hamilton</b> - Interactive diagram on electron rings
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2018/Media/OrtizTavarezandRuben/MPOrtizTavarezandRuben/oscillators.html">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/ortiztavarez-ruben2018.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Jose Ortiz Tavárez and Ben Ruben</b> - Website on oscillators
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1-r1EzNEk3hxP5tSZAy4PytlYWfhIDene/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/santana2018.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Shyline Santana</b> - Animated poster on underwater robots
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://ethanvw.blogspot.com/2018/07/science-series-part-i-nonlinear-and.html">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/vanwoerkom2018.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Ethan van Woerkom</b> - Blog on synchronization in chaotic networks
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=64cpuuqDqXM">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/yoest2018.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Helena Yoest</b> - Video on electrical discharges
+  </div>
+</div>
+<hr class="my-5">
+
+<h2 id="2017" class="mt-5">2017 <a href="#top" style="font-size:0.8em;">Top</a></h2>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1SgoYlPRjQr4uuFeptsJ408IU0DXuIz6e/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/betz2017.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Joseph Betz</b> - Diagram on the Standard Model
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1UIYRC_C4F8nJUCCVJLG9J8RSt9yQqD0u/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/eiskowitz2017.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Skylar Eiskowitz</b> - Animated poster on the Hall effect
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=XZBt-cQiDt4">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/fussel-wikner2017.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Rebeckah Fussel and Alex Wikner</b> - Video on neural networks
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2017/Multimedia/Melkerson/Melkerson%20Multimedia.html">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/melkerson2017.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Rebecca Melkerson</b> - Interactive diagram on magnetic reconnection
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1KY8pIqNM_SQQco-fxNNWixNHFKGmsRcj/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/slaughter-storer2017.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Charlotte Slaughter and Dara Storer</b> - Animated poster on the Brazil nut effect
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1TtqJH0znJXRLnc0RcnLlCKf53Q9pbdLj/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/stauffer2017.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Elieen Stauffer</b> - Comic on the photoelectric effect
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=2uEs_w19NCM">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/super2017.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Nathan Super</b> - Video on avalanches and granular flow
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=j8MFX3f2NkI">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/thackray2017.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Emma Thackray</b> - Video on ocean flows
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1_d7PNFt9CXDnwymS2r1vpTe56-kuBoGy/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/warner2017.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Hana Warner</b> - Diagram on time lensing
+  </div>
+</div>
+<hr class="my-5">
+
+<h2 id="2016" class="mt-5">2016 <a href="#top" style="font-size:0.8em;">Top</a></h2>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2016/Multimedia/Crain%20Kim%20and%20Hathcock%20David/CrainHathcock_MMProj/">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/crain-hathcock2016.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Kimberly Crain and David Hathcock</b> - Website on neuronal network modeling
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://nbviewer.org/github/cyanophycean314/noisechaos_multimedia/blob/master/noisechaos.ipynb">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/fei2016.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Kevin Fei</b> - Website on noise and chaos
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1mey1OVhCP96TtP0JF_5XpxPVnuojbdrr/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/gowen2016.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Savannah Gowen</b> - Animated poster on acoustic waves
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://bruphysikus.wordpress.com/the-tale-of-the-swarm-particle/">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/gruey2016.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Ben Gruey</b> - Fiction work on particle swarm optimization
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/14liwv0CydRs-z9k5PDpthedzzZwjQJaW/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/hanley2016.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Treacy Hanley</b> - Animated poster on mathematical topology
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/16n3QBbTjguNsr29jLRxJRkRU5itZkDaI/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/hartke2016.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Thomas Hartke</b> - Interactive PDF on magnetic reconnection
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1mWFh5m3gPF7ImSHN8vHMRwmQMFp7UX9W/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/horimbere2016.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Landry Horimbere</b> - Animated poster on plasmas
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1OFq4xw_EaPAEhkgeAyixdKbdd-KhgfsT/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/mosher2016.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Molly Mosher</b> - Animated diagram on cell migration
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://terpconnect.umd.edu/~dsvolpe/TREND/2016/Multimedia/Richoux%20Claudia/LHC%20&amp;%20UMER.htm">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/richoux2016.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Claudia Richoux</b> - Website on particle accelerators
+  </div>
+</div>
+<hr class="my-5">
+
+<h2 id="2015" class="mt-5">2015 <a href="#top" style="font-size:0.8em;">Top</a></h2>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=wlZZVXQu9sA">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/babcock2015.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Alisa Babcock</b> - Video on quantum optics
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=FE9f6NTSg8U">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/boros2015.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Remi Boros</b> - Video on quantum vortices
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=iCh41xhiPgw">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/cooper-powers2015.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Eric Cooper and Dylan Powers</b> - Video on granular dynamics
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=EM1H10LwemY">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/davis2015.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Amy Davis</b> - Video on the circle problem for underwater robotics
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://drive.google.com/file/d/1xheMaXC0OD7yyoxOipd5LPbjEYTY-7uj/view">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/fritz2015.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Christopher Fritz</b> - Article on synchronization
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=hiSqWbHwCqA">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/mcgreivy2015.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Nick McGreivy</b> - Video on solar flares
+  </div>
+</div>
+<div class="row g-4 mb-4">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=54ySANUGohs">
+      {% include figure.liquid loading="eager" path="/assets/img/trendmedia/tripepi2015.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
+    <b>Michael Tripepi</b> - Video on photocathodes
+  </div>
+</div>
