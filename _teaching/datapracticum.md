@@ -12,6 +12,7 @@ This is a semester-long graduate course (700-level, 3 credits) on various modes 
 The course is focuses on hands-on activities, learning by revising drafts, and peer-to-peer feedback.
 
 The course schedule is below, and I am happy to share other materials upon request.
+Outcomes for one of the versions of this course are published [here](https://journals.asm.org/doi/full/10.1128/jmbe.v19i3.1592).
 
 I created this course in my role as Research Educator for the [COMBINE fellows program](/pm/combine/).
 
