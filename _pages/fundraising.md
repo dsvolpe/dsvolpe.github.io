@@ -10,7 +10,7 @@ pretty_table: true
 ---
 Collectivelly, I have raised or helped raise over $7M in funds for science, research, and outreach projects.
 
-## Grants written or co-written
+## Grant proposals written or co-written
 
 | Funder | Title | My role | Amount | Status |
 | :----------- | :------------ | :------------ | :------------ | :------------ |
@@ -23,11 +23,11 @@ Collectivelly, I have raised or helped raise over $7M in funds for science, rese
 | MSGC | Implementation Plan for Student Spaceflight Experiments Program (SSEP) Mission 16 to the International Space Station | PI | $35K | Previous |
 
 <br>
-## Grants edited
+## Grant proposals edited
 
 | Funder | Title | My role | Amount | Status | Year |
 | :----------- | :------------ | :------------ | :------------ | :------------ | :------------ |
-| NSF | [CISE-ANR: FET: Small: Hybrid Stochastic Tunnel Junction Circuits for Optimization and Inference](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2121957) | - | $497M | Previous | 2021 |
+| NSF | [CISE-ANR: FET: Small: Hybrid Stochastic Tunnel Junction Circuits for Optimization and Inference](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2121957) | - | $497K | Previous | 2021 |
 | NSF | [Development of a roughened inner sphere for the three-meter model of the Earth's core](https://www.nsf.gov/awardsearch/show-award?AWD_ID=1909055) | - | $591M | Previous | 2021 |
 | NSF | Experimental Models and Acoustic Investigations of Outer Core Magnetohydrodynamics | - | $708K | Not funded | 2017 |
 | NSF | Experimental Models and Acoustic Investigations of Outer Core Magnetohydrodynamics | - | $516K | Not funded | 2016 |
