@@ -14,7 +14,7 @@ Collectivelly, I have raised or helped raise over $7M in funds for science, rese
 
 | Funder | Title | My role | Amount | Status |
 | :----------- | :------------ | :------------ | :------------ | :------------ |
-| NSF | [RTG: The Mathematics of Quantum Information Science]((https://www.nsf.gov/awardsearch/show-award?AWD_ID=2231533)) | co-PI | $2.5M | Current |
+| NSF | [RTG: The Mathematics of Quantum Information Science](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2231533) | co-PI | $2.5M | Current |
 | NSF | [National Physics REU Leadership Group Workshop and Community-Building](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2011908) |  co-PI | $250K | Current |
 | NSF | [REU Site: Training and Research Experiences in Nonlinear Dynamics (TREND)](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2150399) | PI | $432K | Previous |
 | NSF | [REU Site: Training and Research Experiences in Nonlinear Dynamics (TREND)](https://www.nsf.gov/awardsearch/show-award?AWD_ID=1756179) | - | $455K | Previous |
@@ -25,9 +25,15 @@ Collectivelly, I have raised or helped raise over $7M in funds for science, rese
 <br>
 ## Grants edited
 
-| Funder | Title | My role | Amount | Status |
-| :----------- | :------------ | :------------ | :------------ | :------------ |
-| NSF | [NRT-DESE: Network Biology: From Data to Information to Insights](https://www.nsf.gov/awardsearch/show-award?AWD_ID=1632976) | - | $2.9M | Previous |
+| Funder | Title | My role | Amount | Status | Year |
+| :----------- | :------------ | :------------ | :------------ | :------------ | :------------ |
+| NSF | [CISE-ANR: FET: Small: Hybrid Stochastic Tunnel Junction Circuits for Optimization and Inference](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2121957) | - | $497M | Previous | 2021 |
+| NSF | [Development of a roughened inner sphere for the three-meter model of the Earth's core](https://www.nsf.gov/awardsearch/show-award?AWD_ID=1909055) | - | $591M | Previous | 2021 |
+| NSF | Experimental Models and Acoustic Investigations of Outer Core Magnetohydrodynamics | - | $708K | Not funded | 2017 |
+| NSF | Experimental Models and Acoustic Investigations of Outer Core Magnetohydrodynamics | - | $516K | Not funded | 2016 |
+| NSF | Probing Topological Fluid Dynamics in Superfluid Helium | - | $485K | Not funded | 2016 |
+| NSF | [NRT-DESE: Network Biology: From Data to Information to Insights](https://www.nsf.gov/awardsearch/show-award?AWD_ID=1632976) | - | $2.9M | Previous | 2016 |
+| Julian Schwinger Foundation  | Granular Dynamics | - | $79K | Not funded | 2015 |
 
 <br>
 ## Other fundraising
