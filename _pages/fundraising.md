@@ -38,5 +38,5 @@ Collectivelly, I have raised or helped raise over $7M in funds for science, rese
 <br>
 ## Other fundraising
 
-- Served as co-site miner with Dan Lathrop at UMD for the TEDCO Maryland Innovation Initiative, helping 5 faculty obtain $725K to commercialize their inventions (collectively)
+- Served as co-site miner with Dan Lathrop at UMD for the TEDCO Maryland Innovation Initiative, helping 6 faculty obtain $840K to commercialize their inventions (collectively)
 - Mentored 3 undergraduate teams to crowdfund $6.5K for space science research (collectively)
