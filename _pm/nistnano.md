@@ -14,18 +14,18 @@ category: work
 - My involvement: 2014 - 2021
 
 The NIST PML/UMD Fellows Program was a nanotechnology initiative that supported postdoctoral research.
+Fellows published and presented at professional conferences while receiving personalized professional development mentorship. Alumni went on to positions in academia, government labs, and industry.
 
-The program ws funded by a cooperative agreement between the NIST PML (Physical Measurement Laboratory) and UMD's IREAP, and supported research projects within various nanoscience measurement topics.
+As Scientific Coordinator (and co-PI starting 2019) I assisted executing all program activities: advertisement, recruitment, event planning, progress tracking, assessment, budgeting, and reporting.
 
-Researchers at all levels were hired at UMD's IREAP to work at NIST PML in Gaithersburg, MD with mentorship from a project leader from either the Microsystems and Nanotechnology Division or the Nanoscale Device Characterization Division.
-
-Fellows published and presented at professional conferences while receiving personalized professional development mentorship as part of the program. Alumni went on to positions in academia, government labs, and industry.
-
-The program existed from 2006 to 2020, starting under the leadership of Ellen Williams, and has served 170 fellows to date.
-I was Scientific Coordinator of the program from 2014 to 2020 (adding co-PI role in 2019).
+Of my unique contributions:
+- Designed the program visual brand, along with recruitment flyers (samples below)
+- Designed and launched the program's professional development component, which included a monthly workshop series and one-on-one career planning consultations
+- Tracked and supported postdoctoral fellow progress
+- Developed comprehensive technical reports for funding agency
 
 Associated grants:
-NIST UMD Cooperative agreement - Dan Lathrop PI, Daniel Serrano co-PI, dollar amount
+- Nanoscale Science and Technology Postdoctoral and Student Researcher and Visiting Fellow Program - Cooperative Research Agreement between the UMD and the NIST CNST (co-PI)
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

@@ -20,16 +20,18 @@ As Research Educator of COMBINE, I designed and taught curriculum.
 
 I was also heavily involved in co-managing the program, leading and/or helping with: recruitment, admissions, event planning, progress tracking, assessment, and reporting.
 
-Here is a subset of key contributions:
+Some of my unique contributions:
 - Helped develop the grant proposal that funded the program ($2,959,866)
 - Designed the program visual brand, along with recruitment flyers and event banners (samples below)
 - Co-designed and co-taught 4 semesters of graduate course on scientific communication (PHYS782: Interdisciplinary Research and Communication Practicum for Data-Driven Science; [2020 syllabus](https://drive.google.com/file/d/17JdIJpWBLdDDctDQ994MhI4oStpBNIh8/view?usp=share_link))
 - Tracked and supported graduate fellow program progress
 - Co-developed, co-implemented, and co-analyzed assessment surveys, leading to program improvements
 - Co-wrote journal article reporting on assessment data ([PLOS One 2021](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257872))
+- Mentored graduate student teams to design and teach [Peer-to-Peer Tutorials](https://www.combine.umd.edu/peer-to-peer-tutorials/) (workshops on various technical and professional development topics)
+- Led graduate student teams to design and execute public outreach activities (Maryland Day participation)
 
 Associated grants:
-
+- [NRT-DESE: Network Biology: From Data to Information to Insights](https://www.nsf.gov/awardsearch/show-award?AWD_ID=1632976)
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
@@ -56,7 +58,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ads_combine2019_full.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

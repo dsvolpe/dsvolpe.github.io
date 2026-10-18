@@ -20,9 +20,9 @@ The scientific focus is intentionally intersecting mathematics and quantum infor
 
 As co-PI, Director of Education, and Program Manager for MathQuantum, I lead and execute all program activities: advertisement, recruitment, admissions, event planning, progress tracking, assessment, budgeting, and reporting.
 
-Here is a subset of key contributions:
+Some of my unique contributions:
 - Developed the grant proposal that funded the program ($2,500,000)
-- Design the program visual brand, along with recruitment flyers and event banners (samples below)
+- Design the program visual brand, along with recruitment flyers (samples below)
 - Design and teach annual week-long workshop on societal implications of quantum computing
 - Design and teach annual summer-long course on research proposal development
 - Co-design and co-teach annual two-week quantum computing high school program
@@ -35,7 +35,7 @@ Here is a subset of key contributions:
 - Co-wrote journal article reporting on assessment data (under review)
 
 Associated grants:
-
+- [RTG: The Mathematics of Quantum Information Science](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2231533) (co-PI)
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
