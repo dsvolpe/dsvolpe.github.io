@@ -5,7 +5,7 @@ description: Undergraduate research program in nonlinear dynamics
 img: assets/img/pm_trend.jpg
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
 - Program name: TREND (Training and Research Experiences in Nonlinear Dynamics)

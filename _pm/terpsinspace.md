@@ -3,8 +3,8 @@ layout: page
 title: Terps in Space
 description: Undergraduate research program in space science
 img: assets/img/pm_terpsinspace.jpg
-importance: 5
-category: fun
+importance: 3
+category: work
 ---
 
 - Program name: Terps in Space

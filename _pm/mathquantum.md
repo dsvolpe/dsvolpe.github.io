@@ -5,7 +5,7 @@ description: Research fellowships in mathematics of quantum information
 img: assets/img/pm_mathquantum.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 - Program name: MathQuantum
