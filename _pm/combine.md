@@ -9,7 +9,7 @@ category: fun
 
 - Program name: COMBINE (Computation and Mathematics for Biological Networks)
 - Funding: $2.9M
-- Website: [www.combine.umd.edu](https://www.combine.umd.edu)
+- Website: [combine.umd.edu](https://combine.umd.edu)
 - Duration: 2017 - 2021
 - My involvement: 2017 - 2021
 
