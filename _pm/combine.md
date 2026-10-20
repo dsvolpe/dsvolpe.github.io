@@ -33,34 +33,25 @@ Some of my unique contributions:
 Associated grants:
 - [NRT-DESE: Network Biology: From Data to Information to Insights](https://www.nsf.gov/awardsearch/show-award?AWD_ID=1632976)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pm_combineMDday1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pm_combineMDday1.JPG" title="COMBINE Maryland Day" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/assets/img/pm_COMBINEposter.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pm_COMBINEposter.jpg" title="COMBINE poster" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pm_combine_careerworkshop.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pm_combine_careerworkshop.jpg" title="COMBINE career workshop" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    COMBINE fellows doing outreach at Maryland Day, Conference poster about COMBINE created by me ([large version](https://drive.google.com/file/d/1NqSt0zZaL4JVjVeHO-6v7bYbOnA5BWXm/view?usp=drive_link)), Attendees of COMBINE career workshop organized by COMBINE fellows under my mentorship
+    COMBINE fellows doing outreach at Maryland Day | Conference poster about COMBINE created by me (<a href="https://drive.google.com/file/d/1NqSt0zZaL4JVjVeHO-6v7bYbOnA5BWXm/view?usp=drive_link">large version</a>) | Attendees of COMBINE career workshop organized by COMBINE fellows under my mentorship
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ads_combine2019_full.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ads_combine2019_full.png" title="COMBINE brochure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    COMBINE brochure created by me.
+    COMBINE brochure created by me
 </div>
